@@ -1,0 +1,46 @@
+name: Pinterest Bot - Günlük Otomatik Pin Paylaşımı
+
+# Her gün UTC 09:00'da (Türkiye saati 12:00) otomatik çalıştır
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Manuel tetikleme desteği
+
+jobs:
+  pin-to-pinterest:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 1. Repo'yu klonla (commit yapabilmek için token ile)
+      - name: 📥 Repo'yu Klonla
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Node.js 18 kur
+      - name: 🟢 Node.js Kurulumu
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      # 3. Bağımlılıkları yükle
+      - name: 📦 Bağımlılıkları Yükle
+        run: npm ci
+
+      # 4. Botu çalıştır (Secrets'tan çevresel değişkenleri oku)
+      - name: 🤖 Pinterest Bot'u Çalıştır
+        env:
+          ETSY_API_KEY: ${{ secrets.ETSY_API_KEY }}
+          ETSY_SHOP_ID: ${{ secrets.ETSY_SHOP_ID }}
+          PINTEREST_COOKIES: ${{ secrets.PINTEREST_COOKIES }}
+        run: node index.js
+
+      # 5. Güncellenen shared_products.json dosyasını commit ve push yap
+      - name: 💾 Değişiklikleri Kaydet ve Push Et
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add shared_products.json
+          git diff --staged --quiet || git commit -m "🤖 shared_products.json güncellendi - $(date +'%Y-%m-%d')"
+          git push
