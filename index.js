@@ -474,18 +474,7 @@ async function pinToBoard(product) {
     } catch (e) {
       console.log('⚠️ İlk açıklama seçicisi bulunamadı, alternatif deneniyor...');
       
-      let altDesc = await page.$('div.public-DraftEditor-content, div[contenteditable="true"]');
-      if (!altDesc) {
-         // JavaScript ile sayfadaki tüm div/textarea/button elementlerini tara ve aria-label içinde açıklama geçeni bul
-         const handles = await page.$$('div, textarea, span');
-         for (const h of handles) {
-            const aria = await page.evaluate(el => el.getAttribute('aria-label') || '', h);
-            if (aria.toLowerCase().includes('açıklama') || aria.toLowerCase().includes('description')) {
-               altDesc = h;
-               break;
-            }
-         }
-      }
+      const altDesc = await page.$('div[data-test-id="storyboard-description-field-container"], div.public-DraftEditor-content');
 
       if (altDesc) {
         await altDesc.click();
