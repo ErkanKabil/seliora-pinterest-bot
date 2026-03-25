@@ -32,6 +32,7 @@ jobs:
       - name: 🤖 Pinterest Bot'u Çalıştır
         env:
           ETSY_API_KEY: ${{ secrets.ETSY_API_KEY }}
+          ETSY_SHARED_SECRET: ${{ secrets.ETSY_SHARED_SECRET }}
           ETSY_SHOP_ID: ${{ secrets.ETSY_SHOP_ID }}
           PINTEREST_COOKIES: ${{ secrets.PINTEREST_COOKIES }}
         run: node index.js
