@@ -340,30 +340,49 @@ async function pinToBoard(product, imagePath) {
     const selectedBoard = getBoardName(product.title);
     console.log(`📋 Pano seçiliyor: ${selectedBoard}`);
     try {
-      // Pano seçimi butonunu bul (genellikle sol üstte veya sağ üstte bir dropdown)
-      const boardDropdownSelector = '[data-test-id="board-dropdown-select-button"], [data-test-id="board-dropdown"]';
+      // Pano seçimi butonunu bul (Kullanıcının gönderdiği HTML: [data-test-id="board-dropdown-select-button"])
+      const boardDropdownSelector = '[data-test-id="board-dropdown-select-button"]';
       await page.waitForSelector(boardDropdownSelector, { timeout: 10000 });
-      await page.click(boardDropdownSelector);
+      await page.evaluate(sel => document.querySelector(sel)?.click(), boardDropdownSelector);
       await sleep(2000);
 
-      // Arama kutusuna pano adını yaz
-      const searchInputSelector = '[data-test-id="board-search-input"], input[placeholder*="Ara" i], input[placeholder*="Search" i]';
-      await page.waitForSelector(searchInputSelector, { timeout: 5000 });
-      await page.click(searchInputSelector);
-      await page.evaluate((text) => document.execCommand('insertText', false, text), selectedBoard);
+      // Arama kutusuna pano adını yaz (Kullanıcının HTML'i: id="pickerSearchField")
+      const searchInputSelector = '#pickerSearchField, [data-test-id="search-boards-field-container"] input';
+      try {
+        await page.waitForSelector(searchInputSelector, { timeout: 3000 });
+      } catch (err) {
+        // Eğer menü açılmadıysa bir daha tıkla
+        await page.evaluate(sel => document.querySelector(sel)?.click(), boardDropdownSelector);
+        await sleep(2000);
+        await page.waitForSelector(searchInputSelector, { timeout: 5000 });
+      }
+      
+      await page.evaluate(sel => document.querySelector(sel)?.click(), searchInputSelector);
+      await page.evaluate((el, text) => {
+        el.value = text;
+        el.dispatchEvent(new Event('input', { bubbles: true }));
+      }, await page.$(searchInputSelector), selectedBoard);
       await sleep(3000); // Arama sonuçlarının filtrelenmesini bekle
 
-      // İlk sonuca tıkla
-      const boardResultSelector = '[data-test-id="board-row"]';
-      const boardResults = await page.$$(boardResultSelector);
-      if (boardResults.length > 0) {
-        await boardResults[0].click();
+      // Panoya tıkla (Kullanıcı HTML'i: [data-test-id="board-row-Bliss Jewelry..."])
+      const exactBoardSelector = `[data-test-id="board-row-${selectedBoard}"]`;
+      const exactBoardEl = await page.$(exactBoardSelector);
+      
+      if (exactBoardEl) {
+        await exactBoardEl.click();
         console.log(`✅ Pano başarıyla seçildi: ${selectedBoard}`);
         await sleep(2000);
       } else {
-        // Eşleşme çıkmazsa Enter tuşuna basıp onaylamayı dene
-        await page.keyboard.press('Enter');
-        console.log(`⚠️ Arama sonucunda "${selectedBoard}" panosu bulunamadı, varsayılan pano ile devam ediliyor.`);
+        // Fallback: İlk sonuca tıkla
+        const boardResults = await page.$$('div[data-test-id^="board-row-"]');
+        if (boardResults.length > 0) {
+           await boardResults[0].click();
+           console.log(`⚠️ Tam isim bulunamadı, filtrelenen ilk panoya tıklandı.`);
+           await sleep(2000);
+        } else {
+           await page.keyboard.press('Enter');
+           console.log(`⚠️ Pano bulunamadı, Enter tuşuna basıldı.`);
+        }
       }
     } catch (e) {
       console.log('  ⚠️ Pano seçilirken hata oluştu/dropdown bulunamadı (Varsayılan pano kullanılacak):', e.message);
@@ -387,62 +406,79 @@ async function pinToBoard(product, imagePath) {
 
     // Başlık
     console.log('📝 Pin başlığı yazılıyor...');
-    const titleSelector = 'div[data-test-id="pin-draft-title"] textarea, div[data-test-id="pin-draft-title"] div[contenteditable="true"], input[placeholder*="title" i], div[data-test-id="pin-creation-title"] textarea';
+    const titleSelector = 'input#storyboard-selector-title, div[data-test-id="pin-draft-title"] textarea';
     try {
       await page.waitForSelector(titleSelector, { timeout: 10000 });
       const titleEl = await page.$(titleSelector);
       if (titleEl) {
         await titleEl.click();
-        await page.evaluate((text) => document.execCommand('insertText', false, text), productTitle);
+        await page.evaluate((el, text) => {
+          if(el.tagName === 'INPUT' || el.tagName === 'TEXTAREA') {
+            el.value = text;
+            el.dispatchEvent(new Event('input', { bubbles: true }));
+            el.dispatchEvent(new Event('change', { bubbles: true }));
+          } else {
+            document.execCommand('insertText', false, text);
+          }
+        }, titleEl, productTitle);
       }
     } catch (e) {
-      const altTitle = await page.$('[aria-label*="title" i], [aria-label*="başlık" i]');
-      if (altTitle) {
-        await altTitle.click();
-        await page.evaluate((text) => document.execCommand('insertText', false, text), productTitle);
-      }
+      console.log('⚠️ Başlık alanı bulunamadı:', e.message);
     }
     await sleep(1000);
 
-    // Açıklama (Yarıda kesilmemesi için document.execCommand kullanıyoruz)
-    console.log('📝 Pin açıklaması yazılıyor (Metnin tamamı yapıştırılıyor)...');
-    const descSelector = 'div[data-test-id="pin-draft-description"] textarea, div[data-test-id="pin-draft-description"] div[contenteditable="true"], textarea[placeholder*="description" i], div[data-test-id="pin-creation-description"] textarea';
+    // Açıklama
+    console.log('📝 Pin açıklaması yazılıyor...');
+    // Görsele göre "Açıklama" adında bir kutu var. Seçiciyi broad tutup test edeceğiz.
+    const descSelector = 'div[data-test-id="pin-draft-description"] div[contenteditable="true"], div[data-test-id="pin-creation-description"] textarea, textarea[placeholder*="Açıklama" i], div[contenteditable="true"]:has-text("Açıklama") + div';
     try {
-      await page.waitForSelector(descSelector, { timeout: 10000 });
-      const descEl = await page.$(descSelector);
-      if (descEl) {
-        await descEl.click();
-        // Uzun metinlerde Puppeteer type() kesilebilir. Bunun yerine execCommand ile tek hamlede yapıştırıyoruz.
-        await page.evaluate((text) => document.execCommand('insertText', false, text), productDescription);
+      // Sayfadaki tüm textarea ve contenteditable elementleri arayabiliriz
+      const textAreas = await page.$$('textarea, div[contenteditable="true"]');
+      let foundDesc = false;
+      for (const el of textAreas) {
+         // İlk alan zaten başlıktı, çok daha büyük ihtimalle 2. alan açıklamadır
+         const placeholder = await page.evaluate(e => e.getAttribute('placeholder') || e.getAttribute('aria-label') || '', el);
+         if (placeholder.toLowerCase().includes('description') || placeholder.toLowerCase().includes('açıklama')) {
+            await el.click();
+            await page.evaluate((node, text) => {
+              if(node.tagName === 'TEXTAREA') {
+                node.value = text;
+                node.dispatchEvent(new Event('input', { bubbles: true }));
+                node.dispatchEvent(new Event('change', { bubbles: true }));
+              } else {
+                document.execCommand('insertText', false, text);
+              }
+            }, el, productDescription);
+            foundDesc = true;
+            break;
+         }
+      }
+      if(!foundDesc) {
+         // Fallback
+         await page.evaluate((text) => document.execCommand('insertText', false, text), productDescription);
       }
     } catch (e) {
-      const altDesc = await page.$('[aria-label*="description" i], [aria-label*="açıklama" i]');
-      if (altDesc) {
-        await altDesc.click();
-        await page.evaluate((text) => document.execCommand('insertText', false, text), productDescription);
-      }
+      console.log('⚠️ Açıklama alanı doldurulurken hata:', e.message);
     }
     await sleep(1000);
 
     // Link
     console.log('🔗 Ana ürün linki ekleniyor...');
-    const linkSelector = 'input[data-test-id="pin-draft-link"], input[placeholder*="link" i], input[placeholder*="url" i], input[id="website-link"], div[data-test-id="pin-creation-link"] input';
+    const linkSelector = 'input#WebsiteField, input[data-test-id="pin-draft-link"]';
     try {
       await page.waitForSelector(linkSelector, { timeout: 10000 });
       const linkEl = await page.$(linkSelector);
       if (linkEl) {
         await linkEl.click();
-        await page.evaluate((text) => document.execCommand('insertText', false, text), productUrl);
-        // Linki aktif etmek için focus dışında bir tuşa bas
+        await page.evaluate((el, text) => {
+          el.value = text;
+          el.dispatchEvent(new Event('input', { bubbles: true }));
+          el.dispatchEvent(new Event('change', { bubbles: true }));
+        }, linkEl, productUrl);
         await page.keyboard.press('Escape');
       }
     } catch (e) {
-      const altLink = await page.$('[aria-label*="link" i], [aria-label*="url" i]');
-      if (altLink) {
-        await altLink.click();
-        await page.evaluate((text) => document.execCommand('insertText', false, text), productUrl);
-        await page.keyboard.press('Escape');
-      }
+      console.log('⚠️ Link eklenerken hata:', e.message);
     }
     await sleep(2000);
 
@@ -451,101 +487,74 @@ async function pinToBoard(product, imagePath) {
     // =========================================
     console.log('🛍️ Pin "Ürün Pini" (Product Pin) olarak ayarlanıyor...');
     try {
-      // "Ürün Ekle" / "Tag products" butonunu bul
-      let addProductBtn = await page.$('[data-test-id="add-products-button"]');
-      if (!addProductBtn) {
-        const buttons = await page.$$('button, div[role="button"]');
-        for (const btn of buttons) {
-          const text = await page.evaluate(el => el.textContent?.trim().toLowerCase() || '', btn);
-          if (text === 'ürün ekle' || text === 'tag products' || text.includes('ürünleri etiketle')) {
-            addProductBtn = btn;
-            break;
-          }
-        }
-      }
+      // 1. "Ürün Ekle" butonunu bul
+      const addProductSelector = '[data-test-id="add-product-tags-button"]';
+      await page.waitForSelector(addProductSelector, { timeout: 5000 });
+      await page.click(addProductSelector);
+      console.log('   ↳ "Ürün Ekle" butonuna tıklandı.');
+      await sleep(3000);
 
-      if (addProductBtn) {
-        await addProductBtn.click();
-        console.log('   ↳ "Ürün Ekle" butonuna tıklandı.');
-        await sleep(3000);
+      // 2. "Bir Bağlantı Kullan" tabını bul
+      const useLinkTabSelector = '#use-a-link-tab';
+      await page.waitForSelector(useLinkTabSelector, { timeout: 5000 });
+      await page.click(useLinkTabSelector);
+      console.log('   ↳ "Bir Bağlantı Kullan" sekmesine geçildi.');
+      await sleep(2000);
 
-        // "Bir Bağlantı Kullan" / "Use a link" butonunu bul
-        let useLinkBtn = await page.$('[data-test-id="use-link-button"]');
-        if (!useLinkBtn) {
-          const links = await page.$$('button, div[role="button"], div[role="tab"]');
-          for (const btn of links) {
-            const text = await page.evaluate(el => el.textContent?.trim().toLowerCase() || '', btn);
-            if (text.includes('bağlantı kullan') || text.includes('use a link') || text.includes('url')) {
-              useLinkBtn = btn;
-              break;
-            }
-          }
-        }
+      // 3. Link input alanına URL'yi yapıştır
+      const productSearchInputSelector = '#storyboard-product-tags-asset-picker--search-by-link--search-field';
+      await page.waitForSelector(productSearchInputSelector, { timeout: 5000 });
+      const prodInput = await page.$(productSearchInputSelector);
+      if (prodInput) {
+        await prodInput.click();
+        await page.evaluate((el, text) => {
+          el.value = text;
+          el.dispatchEvent(new Event('input', { bubbles: true }));
+          el.dispatchEvent(new Event('change', { bubbles: true }));
+        }, prodInput, productUrl);
+        await sleep(1000);
+        await page.keyboard.press('Enter'); // Aramayı tetikle
+        console.log('   ↳ Link aratıldı, görsellerin gelmesi bekleniyor...');
+        await sleep(6000); // Pinterest'in resmi çekmesini bekle
 
-        if (useLinkBtn) {
-          await useLinkBtn.click();
-          console.log('   ↳ "Bir Bağlantı Kullan" sekmesine geçildi.');
+        // 4. İlk görseli seç
+        const imageSelector = 'div[role="button"]:has(img), div[role="button"] img';
+        const imageResults = await page.$$(imageSelector);
+        if (imageResults.length > 0) {
+          await imageResults[0].click();
+          console.log('   ↳ İlk ürün görseli seçildi.');
           await sleep(2000);
-        }
 
-        // Link input alanına URL'yi yapıştır
-        const prodLinkInputSelector = 'input[type="url"], input[type="text"], input[placeholder*="ör."], input[placeholder*="e.g."]';
-        let prodInput = await page.$(prodLinkInputSelector);
-        if (prodInput) {
-          await prodInput.click();
-          await page.evaluate((text) => document.execCommand('insertText', false, text), productUrl);
-          await sleep(1000);
-          await page.keyboard.press('Enter'); // Submit et
-          console.log('   ↳ Link aratıldı, görsellerin gelmesi bekleniyor...');
-          await sleep(5000); // Pinterest'in sitesinden görsel çekmesini bekle
-
-          // Çıkan görsellerden ilkini seç (genellikle resme veya checkbox'a tıklamak gerekir)
-          const imageResultsSelector = 'div[data-test-id="selectable-image"], div[role="checkbox"], div[role="button"] img';
-          const imageResults = await page.$$(imageResultsSelector);
-          if (imageResults.length > 0) {
-            await imageResults[0].click();
-            console.log('   ↳ İlk ürün görseli seçildi.');
-            await sleep(2000);
-
-            // "Ürün Ekle" / "Save products" / "Add 1 product" butonuna bas (modal onayı)
-            let saveProdBtn = await page.$('[data-test-id="save-products-button"], button[type="submit"]');
-            if (!saveProdBtn) {
-              const modalBtns = await page.$$('button');
-              for (const btn of modalBtns) {
-                const text = await page.evaluate(el => el.textContent?.trim().toLowerCase() || '', btn);
-                if (text.includes('ekle') || text.includes('kaydet') || text.includes('save') || text.includes('add')) {
-                  // Modal onay butonu genellikle arka planı kırmızıdır
-                  const isRed = await page.evaluate(el => {
-                    const bg = window.getComputedStyle(el).backgroundColor;
-                    return bg.includes('rgb(230, 0, 35)') || bg.includes('rgb(204, 0, 0)') || el.className.includes('primary');
-                  }, btn);
-                  if (isRed) {
-                    saveProdBtn = btn;
-                    break;
-                  }
-                }
-              }
+          // 5. Kaydet/Ekle butonuna bas (Genellikle form type="submit" olur veya red background)
+          const isClicked = await page.evaluate(() => {
+            const btns = Array.from(document.querySelectorAll('button'));
+            const btn = btns.find(b => {
+              const text = b.textContent.toLowerCase();
+              return (text.includes('ekle') || text.includes('kaydet') || text.includes('save') || text.includes('add')) &&
+                     window.getComputedStyle(b).backgroundColor.includes('rgb(230, 0, 35)');
+            });
+            if (btn) {
+              btn.click();
+              return true;
             }
-            if (saveProdBtn) {
-              await saveProdBtn.click();
-              console.log('   ↳ "Ürünleri Kaydet/Ekle" butonu ile modal kapatıldı.');
-              await sleep(3000);
-            }
-          } else {
-            console.log('   ⚠️ Bağlantı girildi ama onaylanacak görsel bulunamadı.');
+            return false;
+          });
+          if (isClicked) {
+            console.log('   ↳ "Ürünleri Kaydet/Ekle" butonu ile modal kapatıldı.');
+            await sleep(3000);
           }
+        } else {
+          console.log('   ⚠️ Bağlantı girildi ama onaylanacak görsel bulunamadı.');
         }
-      } else {
-        console.log('   ⚠️ "Ürün Ekle" butonu DOM üzerinde bulunamadı.');
       }
     } catch (e) {
-      console.log('   ⚠️ Ürün pini ekleme akışında sorun çıktı (Normal linkle devam edilecek):', e.message);
+      console.log('   ⚠️ Ürün pini ekleme akışında sorun çıktı:', e.message);
     }
 
-    // 6. Yayınla
+    // 6. Yayınla (Publish)
     console.log('📤 Pin yayınlanıyor...');
     
-    // YENİ: Ağ isteklerini dinleyerek oluşturulan Pin'in IDsini yakala (Frontend'de link gözükmese bile API'den alırız)
+    // Ağ isteklerini dinleyerek oluşturulan Pin'in IDsini yakala
     let createdPinUrl = null;
     const responseHandler = async (response) => {
       try {
@@ -556,27 +565,33 @@ async function pinToBoard(product, imagePath) {
             createdPinUrl = `https://www.pinterest.com/pin/${json.resource_response.data.id}/`;
           }
         }
-      } catch (e) {
-        // Yoksay
-      }
+      } catch (e) {}
     };
     page.on('response', responseHandler);
-    const publishSelector = 'button[data-test-id="board-dropdown-save-button"], button[data-test-id="pin-draft-save-button"], div[data-test-id="pin-creation-save-button"] button, button[aria-label*="Publish" i]';
+
+    // Kırmızı "Yayınla" butonunu bulup tıkla
     try {
-      await page.waitForSelector(publishSelector, { timeout: 10000 });
-      const publishBtn = await page.$(publishSelector);
-      if (publishBtn) {
-        await publishBtn.click();
+      const isPublished = await page.evaluate(() => {
+        const btns = Array.from(document.querySelectorAll('button'));
+        // Üst sağdaki Yayınla butonu kırmızıdır (E20023 / rgb(230, 0, 35))
+        const btn = btns.find(b => {
+          const text = b.textContent.trim().toLowerCase();
+          const bg = window.getComputedStyle(b).backgroundColor;
+          return (text === 'yayınla' || text === 'publish') && bg.includes('rgb(230, 0, 35)');
+        });
+        if (btn) {
+          btn.click();
+          return true;
+        }
+        return false;
+      });
+      if (!isPublished) {
+        // Fallback selectors
+        const fallbackSel = 'button[data-test-id="board-dropdown-save-button"], button[data-test-id="pin-draft-save-button"]';
+        await page.evaluate(sel => document.querySelector(sel)?.click(), fallbackSel);
       }
     } catch (e) {
-      const buttons = await page.$$('button');
-      for (const btn of buttons) {
-        const text = await page.evaluate((el) => el.textContent.trim().toLowerCase(), btn);
-        if (text.includes('yayınla') || text.includes('publish') || text.includes('kaydet') || text.includes('save')) {
-          await btn.click();
-          break;
-        }
-      }
+       console.log('   ⚠️ Yayınla butonuna tıklanamadı:', e.message);
     }
 
     await sleep(6000); // Pinterest'in işlemi tamamlamasını ve toast bildirimi göstermesini bekle
