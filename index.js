@@ -544,6 +544,23 @@ async function pinToBoard(product, imagePath) {
 
     // 6. Yayınla
     console.log('📤 Pin yayınlanıyor...');
+    
+    // YENİ: Ağ isteklerini dinleyerek oluşturulan Pin'in IDsini yakala (Frontend'de link gözükmese bile API'den alırız)
+    let createdPinUrl = null;
+    const responseHandler = async (response) => {
+      try {
+        const url = response.url();
+        if (url.includes('/resource/PinResource/create/')) {
+          const json = await response.json();
+          if (json && json.resource_response && json.resource_response.data && json.resource_response.data.id) {
+            createdPinUrl = `https://www.pinterest.com/pin/${json.resource_response.data.id}/`;
+          }
+        }
+      } catch (e) {
+        // Yoksay
+      }
+    };
+    page.on('response', responseHandler);
     const publishSelector = 'button[data-test-id="board-dropdown-save-button"], button[data-test-id="pin-draft-save-button"], div[data-test-id="pin-creation-save-button"] button, button[aria-label*="Publish" i]';
     try {
       await page.waitForSelector(publishSelector, { timeout: 10000 });
@@ -568,28 +585,35 @@ async function pinToBoard(product, imagePath) {
     console.log(`   Etsy Başlık: ${productTitle}`);
     console.log(`   Etsy Link: ${productUrl}`);
 
-    // YENİ: Pin URL'sini bul ve logla
-    try {
-      // Toast bildirimindeki veya sayfadaki yeni pin linkini (/pin/...) bul
-      const pinLinkEl = await page.$('a[href*="/pin/"]');
-      if (pinLinkEl) {
-        let pinHref = await page.evaluate(el => el.href, pinLinkEl);
-        // Bazen yönlendirme linkleri kısmi olabilir, origin ile birleştir
-        if (!pinHref.startsWith('http')) {
-          pinHref = `https://www.pinterest.com${pinHref}`;
-        }
-        console.log(`   📌 Oluşturulan Pin Bağlantısı: ${pinHref}`);
-      } else {
-        // Eğer link element olarak bulunamazsa sayfanın değişen URL'sine bak
-        const currentUrl = page.url();
-        if (currentUrl.includes('/pin/')) {
-          console.log(`   📌 Oluşturulan Pin Bağlantısı: ${currentUrl}`);
+    // API Dinleyicisini temizle
+    page.off('response', responseHandler);
+
+    // YENİ: Pin URL'sini logla (Önce API yanıtı, olmazsa DOM fallback)
+    if (createdPinUrl) {
+      console.log(`   📌 Oluşturulan Pin Bağlantısı (API'den yakalandı): ${createdPinUrl}`);
+    } else {
+      try {
+        // Toast bildirimindeki veya sayfadaki yeni pin linkini (/pin/...) bul
+        const pinLinkEl = await page.$('a[href*="/pin/"]');
+        if (pinLinkEl) {
+          let pinHref = await page.evaluate(el => el.href, pinLinkEl);
+          // Bazen yönlendirme linkleri kısmi olabilir, origin ile birleştir
+          if (!pinHref.startsWith('http')) {
+            pinHref = `https://www.pinterest.com${pinHref}`;
+          }
+          console.log(`   📌 Oluşturulan Pin Bağlantısı: ${pinHref}`);
         } else {
-           console.log('   ℹ️ Pin linki anlık olarak ekrandan alınamadı, ancak pin başarıyla paylaşıldı.');
+          // Eğer link element olarak bulunamazsa sayfanın değişen URL'sine bak
+          const currentUrl = page.url();
+          if (currentUrl.includes('/pin/')) {
+            console.log(`   📌 Oluşturulan Pin Bağlantısı: ${currentUrl}`);
+          } else {
+             console.log('   ℹ️ Pin linki anlık olarak ekrandan alınamadı, ancak pin başarıyla paylaşıldı.');
+          }
         }
+      } catch (e) {
+        console.log('   ⚠️ Pin URL\'si alırken bir hata oluştu.');
       }
-    } catch (e) {
-      console.log('   ⚠️ Pin URL\'si alırken bir hata oluştu.');
     }
   } catch (error) {
     console.error('❌ Pinterest işlemi sırasında hata:', error.message);
