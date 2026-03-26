@@ -215,11 +215,13 @@ function getProductUrl(product) {
  * @returns {string} - Pano adı
  */
 function getBoardName(title) {
-  const lowerTitle = title.toLowerCase();
+  // Tam kelime eşleşmesi için Regex (\b sınır belirleyici kullanırız, büyük/küçük harf duyarsızdır)
+  // Böylece "spring" kelimesi içindeki "ring" yanlışlıkla eşleşmez
+  const hasWord = (word) => new RegExp(`\\b${word}\\b`, 'i').test(title);
 
   // 1. Birthstone kontrolü (Necklace veya Bracelet ayrımı)
-  if (lowerTitle.includes('birthstone')) {
-    if (lowerTitle.includes('bracelet')) {
+  if (hasWord('birthstone')) {
+    if (hasWord('bracelet')) {
       return 'Bliss Jewelry Birthstone Bracelet';
     } else {
       return 'Bliss Jewelry Birthstone Necklace';
@@ -227,23 +229,23 @@ function getBoardName(title) {
   }
 
   // 2. Özel isim, harf, vb. kolyeler
-  if (lowerTitle.includes('name')) {
+  if (hasWord('name')) {
     return 'Bliss Jewelry Name Necklace';
   }
-  if (lowerTitle.includes('letter') || lowerTitle.includes('initial')) {
+  if (hasWord('letter') || hasWord('initial')) {
     return 'Bliss Jewelry Letter Necklace';
   }
 
   // 3. Bileklikler ve Yüzükler
-  if (lowerTitle.includes('bracelet')) {
+  if (hasWord('bracelet')) {
     return 'Bliss Jewlery Luxury Bracelet';
   }
-  if (lowerTitle.includes('ring')) {
+  if (hasWord('ring')) {
     return 'Bliss Jewelry Ring';
   }
 
   // 4. Varsayılan (eşleşme bulunamazsa)
-  return 'Bliss Jewelry';
+  return 'Bliss Jewelry Necklace';
 }
 
 /**
@@ -366,7 +368,7 @@ async function pinToBoard(product, imagePath) {
     } catch (e) {
       console.log('  ⚠️ Pano seçilirken hata oluştu/dropdown bulunamadı (Varsayılan pano kullanılacak):', e.message);
     }
-    
+
     // 4. Görseli yükle
     console.log('🖼️ Görsel yükleniyor...');
     const fileInput = await page.$('input[type="file"]');
@@ -432,7 +434,7 @@ async function pinToBoard(product, imagePath) {
         await linkEl.click();
         await page.evaluate((text) => document.execCommand('insertText', false, text), productUrl);
         // Linki aktif etmek için focus dışında bir tuşa bas
-        await page.keyboard.press('Escape'); 
+        await page.keyboard.press('Escape');
       }
     } catch (e) {
       const altLink = await page.$('[aria-label*="link" i], [aria-label*="url" i]');
@@ -504,10 +506,10 @@ async function pinToBoard(product, imagePath) {
             await imageResults[0].click();
             console.log('   ↳ İlk ürün görseli seçildi.');
             await sleep(2000);
-            
+
             // "Ürün Ekle" / "Save products" / "Add 1 product" butonuna bas (modal onayı)
             let saveProdBtn = await page.$('[data-test-id="save-products-button"], button[type="submit"]');
-            if(!saveProdBtn) {
+            if (!saveProdBtn) {
               const modalBtns = await page.$$('button');
               for (const btn of modalBtns) {
                 const text = await page.evaluate(el => el.textContent?.trim().toLowerCase() || '', btn);
@@ -524,10 +526,10 @@ async function pinToBoard(product, imagePath) {
                 }
               }
             }
-            if(saveProdBtn) {
-               await saveProdBtn.click();
-               console.log('   ↳ "Ürünleri Kaydet/Ekle" butonu ile modal kapatıldı.');
-               await sleep(3000);
+            if (saveProdBtn) {
+              await saveProdBtn.click();
+              console.log('   ↳ "Ürünleri Kaydet/Ekle" butonu ile modal kapatıldı.');
+              await sleep(3000);
             }
           } else {
             console.log('   ⚠️ Bağlantı girildi ama onaylanacak görsel bulunamadı.');
@@ -560,11 +562,35 @@ async function pinToBoard(product, imagePath) {
       }
     }
 
-    await sleep(8000);
+    await sleep(6000); // Pinterest'in işlemi tamamlamasını ve toast bildirimi göstermesini bekle
 
     console.log('🎉 Pin başarıyla oluşturuldu!');
-    console.log(`   Başlık: ${productTitle}`);
-    console.log(`   Link: ${productUrl}`);
+    console.log(`   Etsy Başlık: ${productTitle}`);
+    console.log(`   Etsy Link: ${productUrl}`);
+
+    // YENİ: Pin URL'sini bul ve logla
+    try {
+      // Toast bildirimindeki veya sayfadaki yeni pin linkini (/pin/...) bul
+      const pinLinkEl = await page.$('a[href*="/pin/"]');
+      if (pinLinkEl) {
+        let pinHref = await page.evaluate(el => el.href, pinLinkEl);
+        // Bazen yönlendirme linkleri kısmi olabilir, origin ile birleştir
+        if (!pinHref.startsWith('http')) {
+          pinHref = `https://www.pinterest.com${pinHref}`;
+        }
+        console.log(`   📌 Oluşturulan Pin Bağlantısı: ${pinHref}`);
+      } else {
+        // Eğer link element olarak bulunamazsa sayfanın değişen URL'sine bak
+        const currentUrl = page.url();
+        if (currentUrl.includes('/pin/')) {
+          console.log(`   📌 Oluşturulan Pin Bağlantısı: ${currentUrl}`);
+        } else {
+           console.log('   ℹ️ Pin linki anlık olarak ekrandan alınamadı, ancak pin başarıyla paylaşıldı.');
+        }
+      }
+    } catch (e) {
+      console.log('   ⚠️ Pin URL\'si alırken bir hata oluştu.');
+    }
   } catch (error) {
     console.error('❌ Pinterest işlemi sırasında hata:', error.message);
     throw error;
