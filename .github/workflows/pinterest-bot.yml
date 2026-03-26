@@ -9,6 +9,8 @@ on:
 jobs:
   pin-to-pinterest:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
       # 1. Repo'yu klonla (commit yapabilmek için token ile)
