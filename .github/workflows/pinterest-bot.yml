@@ -1,9 +1,9 @@
 name: Pinterest Bot - Günlük Otomatik Pin Paylaşımı
 
-# Her gün UTC 09:00'da (Türkiye saati 12:00) otomatik çalıştır
+# Her gün Türkiye saati ile 04:00 ve 06:00'da (UTC 01:00 ve 03:00) otomatik çalıştır
 on:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '0 1,3 * * *'
   workflow_dispatch: # Manuel tetikleme desteği
 
 jobs:
