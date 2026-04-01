@@ -37,5 +37,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-01T22:01:34.652Z",
+    "listing_id": 4480352387,
+    "title": "Mothers Day Gift for Mom, Family Birthstone Necklace, Mothers Day Gift, Custom Jewelry, Gold Minimal Necklace",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4480352387/mothers-day-gift-for-mom-family",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978534482143",
+    "error": null
   }
 ]
