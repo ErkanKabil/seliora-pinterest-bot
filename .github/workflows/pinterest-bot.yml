@@ -1,22 +1,51 @@
 name: Pinterest Bot - Günlük Otomatik Pin Paylaşımı
 
-# Her gün Türkiye saati ile 04:15 ve 06:15'te (UTC 01:15 ve 03:15) çalıştır
-# Not: Tam saat başlarında (00) GitHub sunucuları çok yoğun olduğu için
-# bazı görevleri atlayabiliyor. Bu yüzden 15 dakika gecikmeli kurduk.
+# 9 pin/gün = 3 ürün/gün (her ürün: foto1 + foto2 + video)
+# ABD prime time ağırlıklı, EDT (UTC-4) baz alınmıştır.
+#
+# Slot | EDT        | UTC
+# ─────┼────────────┼──────
+#  1   | 07:15 AM   | 11:15
+#  2   | 09:15 AM   | 13:15
+#  3   | 11:15 AM   | 15:15
+#  4   | 01:15 PM   | 17:15
+#  5   | 03:15 PM   | 19:15
+#  6   | 05:15 PM   | 21:15
+#  7   | 07:15 PM   | 23:15  ← Prime Time ⭐
+#  8   | 08:15 PM   | 00:15  ← Prime Time ⭐
+#  9   | 09:15 PM   | 01:15  ← Prime Time ⭐
+#
+# 📧 Email Bildirimleri:
+# GitHub, bir workflow başarısız olduğunda otomatik olarak
+# hesap emailine bildirim gönderir — ekstra kurulum gerekmez.
+# Ayarlamak için: GitHub → Settings → Notifications → Actions
+
 on:
   schedule:
-    - cron: '15 1 * * *'
-    - cron: '15 3 * * *'
-  workflow_dispatch: # Manuel tetikleme desteği
+    - cron: '15 11 * * *'   # 07:15 AM EDT
+    - cron: '15 13 * * *'   # 09:15 AM EDT
+    - cron: '15 15 * * *'   # 11:15 AM EDT
+    - cron: '15 17 * * *'   # 01:15 PM EDT
+    - cron: '15 19 * * *'   # 03:15 PM EDT
+    - cron: '15 21 * * *'   # 05:15 PM EDT  (iş çıkışı)
+    - cron: '15 23 * * *'   # 07:15 PM EDT  ⭐ Prime Time
+    - cron: '15 0 * * *'    # 08:15 PM EDT  ⭐ Prime Time
+    - cron: '15 1 * * *'    # 09:15 PM EDT  ⭐ Prime Time zirvesi
+  workflow_dispatch:
+
+# Aynı anda sadece 1 job çalışsın — race condition önlemi
+concurrency:
+  group: pinterest-bot
+  cancel-in-progress: false
 
 jobs:
   pin-to-pinterest:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
-      # 1. Repo'yu klonla (commit yapabilmek için token ile)
+      # 1. Repo'yu klonla
       - name: 📥 Repo'yu Klonla
         uses: actions/checkout@v4
         with:
@@ -33,7 +62,9 @@ jobs:
       - name: 📦 Bağımlılıkları Yükle
         run: npm ci
 
-      # 4. Botu çalıştır (Secrets'tan çevresel değişkenleri oku)
+      # 4. Botu çalıştır
+      #    Exit 0 → başarı  |  Exit 1 → genel hata  |  Exit 2 → cookie süresi dolmuş
+      #    Hata durumunda GitHub otomatik olarak hesap emailine bildirim gönderir.
       - name: 🤖 Pinterest Bot'u Çalıştır
         env:
           ETSY_API_KEY: ${{ secrets.ETSY_API_KEY }}
@@ -42,11 +73,11 @@ jobs:
           PINTEREST_COOKIES: ${{ secrets.PINTEREST_COOKIES }}
         run: node index.js
 
-      # 5. Güncellenen shared_products.json dosyasını commit ve push yap
+      # 5. shared_products.json ve pin_log.json'ı commit et
       - name: 💾 Değişiklikleri Kaydet ve Push Et
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add shared_products.json
-          git diff --staged --quiet || git commit -m "🤖 shared_products.json güncellendi - $(date +'%Y-%m-%d')"
+          git add shared_products.json pin_log.json
+          git diff --staged --quiet || git commit -m "🤖 Pin paylaşıldı - $(date +'%Y-%m-%d %H:%M UTC')"
           git push
