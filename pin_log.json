@@ -89,5 +89,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-02T12:01:53.147Z",
+    "listing_id": 4480343431,
+    "title": "Mothers Day Gift for Mom, Minimal Gold Necklace, Mothers Day Gift, Dainty Gemstone Necklace, Personalized Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4480343431/mothers-day-gift-for-mom-minimal-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
