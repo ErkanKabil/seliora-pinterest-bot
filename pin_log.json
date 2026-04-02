@@ -128,5 +128,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978534526823",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-02T18:01:23.341Z",
+    "listing_id": 4480405480,
+    "title": "Mothers Day Gift for Mom, Balloon Name Necklace, 3D Bubble Name Necklace, Gold Plated Puff Pendant, Mothers Day Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4480405480/mothers-day-gift-for-mom-balloon-name",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978534532782",
+    "error": null
   }
 ]
