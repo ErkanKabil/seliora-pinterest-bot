@@ -245,5 +245,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-03T17:53:22.133Z",
+    "listing_id": 4482423102,
+    "title": "Mothers Day Gift, Personalized Heart Name Necklace for Mom, Custom Name Necklace, Family Name Necklace, Gold Dainty Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4482423102/mothers-day-gift-personalized-heart-name",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978534597274",
+    "error": null
   }
 ]
