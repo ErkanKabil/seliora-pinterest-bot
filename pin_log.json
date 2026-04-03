@@ -219,5 +219,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-03T14:10:02.589Z",
+    "listing_id": 4468722251,
+    "title": "Emerald Pendant Necklace, Round Green Emerald in 14k Gold Plated Flower Frame with Diamonds, Dainty Celestial Necklace, Mothers Day Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4468722251/emerald-pendant-necklace-round-green",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
