@@ -180,5 +180,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978534549360",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-03T03:30:39.599Z",
+    "listing_id": 4481529464,
+    "title": "Mothers Day Gift for Mom, Birthstone Necklace, Personalized Family Gemstone Jewelry, Mothers Day Gift, Birthday Gift for Her, Gift for Mom",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4481529464/mothers-day-gift-for-mom-birthstone",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978534558495",
+    "error": null
   }
 ]
