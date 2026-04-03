@@ -271,5 +271,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978534604138",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-03T21:53:01.511Z",
+    "listing_id": 4482700787,
+    "title": "Bubble Name Necklace, 3D Balloon Letter Pendant, Personalized Jewelry, Mothers Day Gift, Teenage Girl Name Necklace, Silver Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4482700787/bubble-name-necklace-3d-balloon-letter",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
