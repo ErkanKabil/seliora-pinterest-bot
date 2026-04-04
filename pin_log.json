@@ -336,5 +336,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-04T14:02:55.617Z",
+    "listing_id": 4482706507,
+    "title": "Custom Name Necklace, Personalized Side Heart Jewelry, 14K Gold Dainty Nameplate, Mothers Day Gift, Birthday Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4482706507/custom-name-necklace-personalized-side",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978534649841",
+    "error": null
   }
 ]
