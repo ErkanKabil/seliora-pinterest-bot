@@ -362,5 +362,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-04T17:49:25.662Z",
+    "listing_id": 4482699589,
+    "title": "Custom Puffed Letter Name Necklace, Personalized Initial Pendant, Custom Bubble Text Plate Jewelry for Her, Mothers Day Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4482699589/custom-puffed-letter-name-necklace",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
