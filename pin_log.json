@@ -518,5 +518,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-05T23:52:13.400Z",
+    "listing_id": 4479113314,
+    "title": "Custom Initial Disc Necklace with Birthstone, Personalized Mothers Day Gift, Engraved Gold Plated Pendant for Mom, Dainty Family Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4479113314/custom-initial-disc-necklace-with",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
