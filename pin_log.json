@@ -479,5 +479,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-05T17:49:56.609Z",
+    "listing_id": 4480391893,
+    "title": "Bubble Initial Necklace, Personalized Name Jewelry, Custom  14K Gold Dainty Name Necklace, Birthday Gift for Her, Mothers Day Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4480391893/bubble-initial-necklace-personalized",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
