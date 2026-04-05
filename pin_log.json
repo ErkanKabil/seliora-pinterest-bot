@@ -414,5 +414,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-05T03:39:16.674Z",
+    "listing_id": 4482945908,
+    "title": "3D Bubble Name Necklace, Custom Balloon Letter Pendant, Personalized Puff Nameplate, Gold Plated Minimalist Jewelry, Mothers Day Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4482945908/3d-bubble-name-necklace-custom-balloon",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978534691857",
+    "error": null
   }
 ]
