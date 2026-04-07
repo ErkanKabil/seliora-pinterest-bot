@@ -713,5 +713,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-07T18:10:02.003Z",
+    "listing_id": 4471580146,
+    "title": "Gold Chain Ring, Minimal Link Ring, Dainty Chain Band, Chunky Gold Ring, Everyday Statement Ring, Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Ring",
+    "etsy_url": "https://www.etsy.com/listing/4471580146/gold-chain-ring-minimal-link-ring-dainty",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978534854478",
+    "error": null
   }
 ]
