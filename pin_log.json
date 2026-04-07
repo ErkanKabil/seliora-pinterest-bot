@@ -739,5 +739,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978534859631",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-07T22:02:07.471Z",
+    "listing_id": 4481519947,
+    "title": "Mothers Day Gift for Mom, Heart Personalized Name Necklace for Mom, Custom Hearts with Children&#39;s Names, Family Jewelry, Mothers Day Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4481519947/mothers-day-gift-for-mom-heart",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978534865638",
+    "error": null
   }
 ]
