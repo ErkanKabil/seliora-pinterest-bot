@@ -648,5 +648,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-07T03:33:19.300Z",
+    "listing_id": 4478022815,
+    "title": "Personalized Name Necklace with Birthstone, Custom Name Necklace, Gold Name Jewelry, Mothers Day Gift, Gift for Her, Dainty Name Necklace",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4478022815/personalized-name-necklace-with",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978534815763",
+    "error": null
   }
 ]
