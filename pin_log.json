@@ -791,5 +791,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978534881654",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-08T12:07:03.853Z",
+    "listing_id": 4483380165,
+    "title": "Mother&#39;s Day Gift, Personalized Tiny Heart Initial Necklace, Custom Engraved Gold Heart Pendant, Dainty Mom Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4483380165/mothers-day-gift-personalized-tiny-heart",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978534897739",
+    "error": null
   }
 ]
