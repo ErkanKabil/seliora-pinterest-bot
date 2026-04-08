@@ -843,5 +843,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-08T20:06:57.844Z",
+    "listing_id": 4479271624,
+    "title": "Colorful Initial Necklace, Custom Name Necklace with Charms, Fun Minimal Jewelry, Y2K Style Necklace, Gift for Best Friend",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4479271624/colorful-initial-necklace-custom-name",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978534921692",
+    "error": null
   }
 ]
