@@ -921,5 +921,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-09T15:03:15.943Z",
+    "listing_id": 4460825222,
+    "title": "Swan Necklace Gold, Dainty Bird Pendant, Minimal Romantic Jewelry, Bridesmaid Gift, Elegant Summer Necklace for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4460825222/swan-necklace-gold-dainty-bird-pendant",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978534968285",
+    "error": null
   }
 ]
