@@ -999,5 +999,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-10T03:43:25.675Z",
+    "listing_id": 4479827547,
+    "title": "Personalized Bubble Letter Birthstone Necklace, Custom Balloon Initial Pendant with Gemstone, 3D Letter&Birthstone Jewelry, Mothers Day Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4479827547/personalized-bubble-letter-birthstone",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535003430",
+    "error": null
   }
 ]
