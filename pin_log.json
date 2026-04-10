@@ -1051,5 +1051,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535033708",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-10T18:01:35.545Z",
+    "listing_id": 4419702657,
+    "title": "Solid Gold Custom Name Necklace, Dainty Real Gold Jewelry, Mothers Day Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4419702657/solid-gold-custom-name-necklace-dainty",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
