@@ -1025,5 +1025,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535004671",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-10T14:34:31.717Z",
+    "listing_id": 4479823729,
+    "title": "Balloon Letter Necklace with Birthstone, Personalized Bubble Initial Necklace, Custom Gold Initial Pendant, Mothers Day Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4479823729/balloon-letter-necklace-with-birthstone",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
