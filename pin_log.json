@@ -1194,5 +1194,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535112033",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-11T21:51:37.721Z",
+    "listing_id": 4485438066,
+    "title": "Mothers Day Gift, Emerald Green Hoop Earrings, Marquise Cut Dangle, 14K Gold Jewelry for Her, Elegant Gemstone Gift for Mom",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4485438066/mothers-day-gift-emerald-green-hoop",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535118014",
+    "error": null
   }
 ]
