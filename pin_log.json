@@ -1220,5 +1220,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-12T03:48:34.632Z",
+    "listing_id": 4427200836,
+    "title": "Sideways Cross Necklace • 14K Gold Horizontal Cross • Dainty Religious Jewelry • Minimalist Choker • Mothers Day Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4427200836/sideways-cross-necklace-14k-gold",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535135534",
+    "error": null
   }
 ]
