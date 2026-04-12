@@ -1285,5 +1285,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535167323",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-12T17:53:18.357Z",
+    "listing_id": 4455177186,
+    "title": "1776 Year Necklace, America 250th Anniversary Gift, Custom Date Pendant, USA Semiquincentennial Jewelry, Patriotic 4th of July Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4455177186/1776-year-necklace-america-250th",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
