@@ -1428,5 +1428,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535249333",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-13T22:06:51.269Z",
+    "listing_id": 4486042371,
+    "title": "Birthstone Necklace for Her, Custom Gemstone Necklace, Mothers Day Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4486042371/birthstone-necklace-for-her-custom",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535253914",
+    "error": null
   }
 ]
