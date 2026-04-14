@@ -1441,5 +1441,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535253914",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-14T00:01:56.158Z",
+    "listing_id": 4486042849,
+    "title": "Round Birthstone Necklace for Her, Personalized Birthstone Pendant, Unique Birthday Jewelry Gift, Mothers Day Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4486042849/round-birthstone-necklace-for-her",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
