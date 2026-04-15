@@ -1610,5 +1610,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-15T14:52:52.009Z",
+    "listing_id": 4447103569,
+    "title": "14k Gold Clover Necklace, Dainty Four Leaf Clover Pendant, Lucky Charm Necklace, Mothers Day Gift, Tiny Gold Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4447103569/14k-gold-clover-necklace-dainty-four",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
