@@ -1636,5 +1636,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535361328",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-15T18:17:28.803Z",
+    "listing_id": 4485433958,
+    "title": "Mothers Day Gift, Family Birthstone Earrings, Custom Multi Stone Drop, Personalized Mom Gift, 14K Gold Colorful Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4485433958/mothers-day-gift-family-birthstone",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
