@@ -1701,5 +1701,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535395080",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-16T04:25:08.227Z",
+    "listing_id": 4489257487,
+    "title": "Birthstone Star Necklace, Personalized Gold Star Jewelry, Dainty Minimalist Necklace, Birthday Gift for Her, Mothers Day Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4489257487/birthstone-star-necklace-personalized",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535396286",
+    "error": null
   }
 ]
