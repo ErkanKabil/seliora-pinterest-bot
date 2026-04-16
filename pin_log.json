@@ -1779,5 +1779,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535437756",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-16T22:03:22.993Z",
+    "listing_id": 4489273052,
+    "title": "Custom Birthstone Necklace, Personalized Family Jewelry, Birthday Gift for Her, Mothers Day Gift, Minimalist Gemstone Bar Necklace",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4489273052/custom-birthstone-necklace-personalized",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535444210",
+    "error": null
   }
 ]
