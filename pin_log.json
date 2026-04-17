@@ -1883,5 +1883,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535494376",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-17T20:05:23.430Z",
+    "listing_id": 4427762996,
+    "title": "14K Gold Heart Necklace, Puffy Heart Pendant, Tiny Love Charm, Mothers Day Gift, Minimalist Jewelry, Romantic Gift for Girlfriend",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4427762996/14k-gold-heart-necklace-puffy-heart",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
