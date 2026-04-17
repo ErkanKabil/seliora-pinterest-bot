@@ -1857,5 +1857,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-17T16:15:46.499Z",
+    "listing_id": 4489272572,
+    "title": "Personalized Baguette Cut Birthstone Bar Necklace, Family Birthstone Jewelry, Gold Custom Gemstone Necklace, Mothers Day Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4489272572/personalized-baguette-cut-birthstone-bar",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535488384",
+    "error": null
   }
 ]
