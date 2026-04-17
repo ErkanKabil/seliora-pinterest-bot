@@ -1909,5 +1909,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535507170",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-17T23:58:12.077Z",
+    "listing_id": 4489783309,
+    "title": "Custom Birthstone Necklace, Personalized Gemstone Jewelry, 14K Gold Dainty Birthstone Pendant, Mothers Day Gift, Birthday Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4489783309/custom-birthstone-necklace-personalized",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535511967",
+    "error": null
   }
 ]
