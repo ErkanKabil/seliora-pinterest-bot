@@ -2065,5 +2065,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535593068",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-19T11:54:08.624Z",
+    "listing_id": 4489017527,
+    "title": "Mothers Day Gift for Mom, Personalized Heart Initial Necklace, Custom Letter Necklace, Minimalist Gold Heart Pendant, Meaningful Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4489017527/mothers-day-gift-for-mom-personalized",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535611054",
+    "error": null
   }
 ]
