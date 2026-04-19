@@ -2130,5 +2130,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-19T21:55:08.596Z",
+    "listing_id": 4426480327,
+    "title": "Custom Name Necklace with Sparkling Stones, 14k Gold Plated Jewelry, Mothers Day Gift, Waterproof Dainty Nameplate, Minimalist Present",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4426480327/gold-name-necklace-with-sparkling-stones",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535645277",
+    "error": null
   }
 ]
