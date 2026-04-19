@@ -2039,5 +2039,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535582756",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-19T03:52:37.910Z",
+    "listing_id": 4486010323,
+    "title": "Pearl and Emerald Necklace, Gold Pearl Pendant, Dainty Layering Necklace, Mothers Day Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4486010323/pearl-and-emerald-necklace-gold-pearl",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535591921",
+    "error": null
   }
 ]
