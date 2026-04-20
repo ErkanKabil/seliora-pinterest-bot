@@ -2169,5 +2169,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-20T04:30:06.193Z",
+    "listing_id": 4491084196,
+    "title": "Mothers Day Gift, Butterfly Hoop Earrings, Gold Dangle Butterfly Earrings, Minimalist Earrings, Symbolic Jewelry, Gift for Mom",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4491084196/mothers-day-gift-butterfly-hoop-earrings",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535662762",
+    "error": null
   }
 ]
