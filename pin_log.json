@@ -2208,5 +2208,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535688265",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-20T16:24:04.389Z",
+    "listing_id": 4436056344,
+    "title": "Baguette Diamond Simulant Bracelet - Sterling Silver Art Deco Jewelry - Mothers Day Gift - Luxury Anniversary Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Luxury Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4436056344/baguette-diamond-simulant-bracelet",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535692979",
+    "error": null
   }
 ]
