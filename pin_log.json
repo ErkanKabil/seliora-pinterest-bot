@@ -2403,5 +2403,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-22T04:17:51.391Z",
+    "listing_id": 4491089284,
+    "title": "Pearl Drop Earrings, Dainty Gold Pearl Earrings, Minimalist Elegant Earrings, Mothers Day Gift, Gift for Mom, Classic Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4491089284/pearl-drop-earrings-dainty-gold-pearl",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535793431",
+    "error": null
   }
 ]
