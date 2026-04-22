@@ -2416,5 +2416,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535793431",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-22T12:12:10.977Z",
+    "listing_id": 4491733589,
+    "title": "Diamond Name Necklace, Personalized Name Necklace, Custom Gold Name Necklace, Mothers Day Gift, Luxury Dainty Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4491733589/diamond-name-necklace-personalized-name",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535810832",
+    "error": null
   }
 ]
