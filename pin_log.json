@@ -2468,5 +2468,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535829113",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-22T20:17:03.843Z",
+    "listing_id": 4485440412,
+    "title": "Mothers Day Gift, Heart Birthstone Necklace, Personalized Mom Jewelry, Custom Gemstone Pendant, 14K Gold Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4485440412/mothers-day-gift-heart-birthstone",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535835190",
+    "error": null
   }
 ]
