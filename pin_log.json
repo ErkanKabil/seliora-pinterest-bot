@@ -2520,5 +2520,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535855047",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-23T04:22:36.951Z",
+    "listing_id": 4491779630,
+    "title": "Mothers Day Gift, Baroque Style Pearl Hoop Earrings, Elegant Pearl Dangle, Gold Plated Statement Earrings, Minimalist Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4491779630/mothers-day-gift-baroque-style-pearl",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535856432",
+    "error": null
   }
 ]
