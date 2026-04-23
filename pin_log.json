@@ -2533,5 +2533,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535856432",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-23T12:12:19.224Z",
+    "listing_id": 4417892538,
+    "title": "Solid Gold Initial Necklace, Custom Letter Pendant, Mothers Day Gift, Font Selection Necklace, 14K Gold Charm",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4417892538/solid-gold-initial-necklace-custom",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535873858",
+    "error": null
   }
 ]
