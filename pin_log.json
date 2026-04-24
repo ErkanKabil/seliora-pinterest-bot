@@ -2702,5 +2702,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-24T22:06:24.817Z",
+    "listing_id": 4464458637,
+    "title": "Old English Letter Necklace, 14k Gold Plated Gothic Initial Pendant, Personalized Birthday Gift for Her, Mothers Day Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4464458637/old-english-letter-necklace-14k-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
