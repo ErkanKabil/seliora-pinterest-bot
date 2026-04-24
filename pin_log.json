@@ -2598,5 +2598,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535899344",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-24T00:05:22.128Z",
+    "listing_id": 4493472406,
+    "title": "Heart Initial Necklace, Personalized Heart Letter Necklace, Custom 14K Gold Dainty Nameplate, Mothers Day Gift, Birthday Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4493472406/heart-initial-necklace-personalized",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535908833",
+    "error": null
   }
 ]
