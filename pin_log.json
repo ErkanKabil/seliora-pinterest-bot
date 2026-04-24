@@ -2676,5 +2676,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978535949058",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-24T18:00:38.134Z",
+    "listing_id": 4493431381,
+    "title": "Tree of Life Necklace, Charm Necklace, 14k Gold Charm Pendant, Mothers Day Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4493431381/tree-of-life-necklace-charm-necklace-14k",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978535955016",
+    "error": null
   }
 ]
