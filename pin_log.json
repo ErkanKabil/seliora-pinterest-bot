@@ -2936,5 +2936,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978536100232",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-26T21:57:13.899Z",
+    "listing_id": 4491754012,
+    "title": "Mothers Day Gift for Mom, Gold Star Drop Earrings, Minimal Dainty Earrings, Celestial Jewelry, Elegant Everyday Earrings",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4491754012/mothers-day-gift-for-mom-gold-star-drop",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
