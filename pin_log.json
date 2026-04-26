@@ -2910,5 +2910,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-26T17:58:15.395Z",
+    "listing_id": 4430348507,
+    "title": "14K Gold Birthstone Necklace, Custom Family Jewelry, Minimalist Gemstone Necklace, Birthday Gift for Mom, Mothers Day Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4430348507/14k-gold-birthstone-necklace-custom",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978536092295",
+    "error": null
   }
 ]
