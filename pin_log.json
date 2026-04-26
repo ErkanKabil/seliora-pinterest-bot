@@ -2871,5 +2871,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-26T11:59:55.433Z",
+    "listing_id": 4467129122,
+    "title": "Mothers Day Gift for Mom, Custom Photo Necklace for Mothers Day, Personalized Picture Engraved Pendant, Mothers Day Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4467129122/custom-photo-necklace-for-mothers-day",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978536071593",
+    "error": null
   }
 ]
