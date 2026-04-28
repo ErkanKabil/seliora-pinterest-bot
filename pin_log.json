@@ -3157,5 +3157,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978536224079",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-28T20:43:58.231Z",
+    "listing_id": 4495699943,
+    "title": "3D Bubble Name Necklace, Custom Balloon Letter Pendant, Initial Necklace with Heart, Mothers Day Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4495699943/3d-bubble-name-necklace-custom-balloon",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
