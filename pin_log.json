@@ -3248,5 +3248,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-04-29T22:14:40.081Z",
+    "listing_id": 4430383738,
+    "title": "Purple Stone Floral Circle Necklace • Mother of Pearl Flower & Garnet Detail • Rose Gold Elegant Women’s Necklace",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4430383738/purple-stone-floral-circle-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978536301498",
+    "error": null
   }
 ]
