@@ -3209,5 +3209,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978536271518",
     "error": null
+  },
+  {
+    "timestamp": "2026-04-29T16:55:32.255Z",
+    "listing_id": 4461310697,
+    "title": "Star Birthstone Necklace for Mom, Mothers Day Gift, Personalized Family Necklace, Five Stone Gold Star Pendant, Grandma Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4461310697/star-birthstone-necklace-for-mom-mothers",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978536284806",
+    "error": null
   }
 ]
