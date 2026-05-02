@@ -3534,5 +3534,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978536450683",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-02T12:03:38.079Z",
+    "listing_id": 4496883736,
+    "title": "Custom Name Necklace, Personalized 14k Gold Nameplate, Dainty Minimalist Name Pendant, Mothers Day Gift, Custom Word Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4496883736/custom-name-necklace-personalized-14k",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978536467412",
+    "error": null
   }
 ]
