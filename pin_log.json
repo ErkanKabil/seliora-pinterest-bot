@@ -3677,5 +3677,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-03T16:02:16.417Z",
+    "listing_id": 4471021259,
+    "title": "Balloon Letter Necklace, Custom Initial Puff Necklace, Gold Balloon Initial Pendant, Bead Satellite Chain Necklace, Mothers Day Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4471021259/balloon-letter-necklace-custom-initial",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978536548132",
+    "error": null
   }
 ]
