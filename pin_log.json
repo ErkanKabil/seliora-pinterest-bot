@@ -3820,5 +3820,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978536622780",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-04T20:43:32.272Z",
+    "listing_id": 4498838221,
+    "title": "Dainty Seed Pearl Necklace, Tiny Pearl Choker, Minimalist Freshwater Pearl Jewelry, Delicate Real Pearl Necklace, Mothers Day Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4498838221/dainty-seed-pearl-necklace-tiny-pearl",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978536628367",
+    "error": null
   }
 ]
