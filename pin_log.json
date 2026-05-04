@@ -3768,5 +3768,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-04T12:59:45.566Z",
+    "listing_id": 4498674885,
+    "title": "Initial Heart Jewelry, Custom Name Necklace, 14K Gold Nameplate, Birthday Gift for Her, Mothers Day Necklace",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4498674885/initial-heart-jewelry-custom-name",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978536603586",
+    "error": null
   }
 ]
