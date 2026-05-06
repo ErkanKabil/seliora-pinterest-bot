@@ -3989,5 +3989,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978536716474",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-06T13:04:00.815Z",
+    "listing_id": 4433782115,
+    "title": "Love Necklace, Gold Heart Jewelry, Stone Heart Pendant, Gifts for Girlfriend, Unique Heart Necklace, Birthday Gift for Wife, Dainty Choker",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4433782115/love-necklace-gold-heart-jewelry-stone",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978536739249",
+    "error": null
   }
 ]
