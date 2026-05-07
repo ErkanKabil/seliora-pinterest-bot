@@ -4171,5 +4171,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-07T22:20:03.111Z",
+    "listing_id": 4501165404,
+    "title": "Dainty Tennis Necklace, Diamond Tennis Pendant, Minimalist Zircon Necklace, Bridesmaids Wedding Jewelry, Gift for Women, Gift for Mother",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4501165404/dainty-tennis-necklace-diamond-tennis",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978536839622",
+    "error": null
   }
 ]
