@@ -4080,5 +4080,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978536777358",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-07T04:07:14.189Z",
+    "listing_id": 4500582840,
+    "title": "Silver Tennis Necklace, Cubic Zirconia Choker, Bridal Jewelry for Women, Elegant Wedding Necklace, Anniversary Gift for Her, Diamond Choker",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4500582840/silver-tennis-necklace-cubic-zirconia",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978536787619",
+    "error": null
   }
 ]
