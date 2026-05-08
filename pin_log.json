@@ -4275,5 +4275,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-08T20:18:19.114Z",
+    "listing_id": 4501053221,
+    "title": "Mother&#39;s Day Gift, Classic Tennis Necklace, Silver Everyday Luxury Jewelry, Anniversary Gift for Her, Glamorous Bridal Necklace",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4501053221/mothers-day-gift-classic-tennis-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978536902827",
+    "error": null
   }
 ]
