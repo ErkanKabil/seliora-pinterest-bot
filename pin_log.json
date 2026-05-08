@@ -4236,5 +4236,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-08T15:05:31.584Z",
+    "listing_id": 4429717452,
+    "title": "Custom Name Necklace, Personalized Name Pendant, Solid Gold Custom Jewelry, Gift for Girlfriend, Mothers Day Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4429717452/custom-name-necklace-personalized-name",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978536883733",
+    "error": null
   }
 ]
