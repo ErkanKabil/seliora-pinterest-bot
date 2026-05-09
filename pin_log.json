@@ -4392,5 +4392,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-09T20:04:33.197Z",
+    "listing_id": 4461307310,
+    "title": "Star Birthstone Necklace for Mom, Mothers Day Gift, Dainty Gold Star Pendant, Personalized Family Jewelry, Colorful Gemstone Necklace",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4461307310/star-birthstone-necklace-for-mom-mothers",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978536967912",
+    "error": null
   }
 ]
