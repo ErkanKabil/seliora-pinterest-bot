@@ -4405,5 +4405,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978536967912",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-09T22:05:31.486Z",
+    "listing_id": 4501119393,
+    "title": "Classic Tennis Necklace, Sparkling Diamond Cut Choker, Silver Everyday Luxury Jewelry, Anniversary Gift for Her, Glamorous Bridal Necklace",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4501119393/classic-tennis-necklace-sparkling",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
