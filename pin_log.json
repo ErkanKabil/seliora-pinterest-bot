@@ -4483,5 +4483,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537017402",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-10T16:10:43.870Z",
+    "listing_id": 4501150955,
+    "title": "Dainty Tennis Necklace, 925 Silver CZ Diamond Choker, Non-Flip Layering Chain, Bridal Wedding Jewelry, Elegant Anniversary Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4501150955/dainty-tennis-necklace-925-silver-cz",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537023719",
+    "error": null
   }
 ]
