@@ -4457,5 +4457,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978536991671",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-10T12:07:04.416Z",
+    "listing_id": 4435510388,
+    "title": "Mothers Day Gift, Rose Gold Heart Necklace, Diamond Promise Necklace, Romantic Anniversary Gift, Love Pendant, Girlfriend Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4435510388/valentines-day-gift-for-her-rose-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
