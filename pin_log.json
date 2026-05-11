@@ -4626,5 +4626,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537103830",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-11T22:21:08.750Z",
+    "listing_id": 4503207508,
+    "title": "Toi Et Moi Heart Necklace, Two Pear Gemstones, Custom Birthstone Pendant, Personalized Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4503207508/toi-et-moi-heart-necklace-two-pear",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537107315",
+    "error": null
   }
 ]
