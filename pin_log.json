@@ -4639,5 +4639,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537107315",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-12T00:12:22.479Z",
+    "listing_id": 4503259247,
+    "title": "Custom Monogram Cufflinks, Personalized Brass Initials, Groom Wedding Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4503259247/custom-monogram-cufflinks-personalized",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537111697",
+    "error": null
   }
 ]
