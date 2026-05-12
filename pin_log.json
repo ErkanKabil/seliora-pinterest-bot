@@ -4704,5 +4704,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-12T17:24:49.969Z",
+    "listing_id": 4503240967,
+    "title": "Tiny Heart Birthstone Necklace, Minimalist 2 Birthstone Necklace, Personalized Jewelry, Birthday Gift for Her, Mother&#39;s Day Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4503240967/tiny-heart-birthstone-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537154552",
+    "error": null
   }
 ]
