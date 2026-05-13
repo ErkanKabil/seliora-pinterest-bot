@@ -4782,5 +4782,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537182917",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-13T05:00:22.442Z",
+    "listing_id": 4503863521,
+    "title": "Fathers Day Gift, Personalized Mens Necklace with Multiple Names, Custom Engraved Silver Figaro Chain, Kids Names Necklace for Husband",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4503863521/fathers-day-gift-personalized-mens",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537184293",
+    "error": null
   }
 ]
