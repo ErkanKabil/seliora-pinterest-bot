@@ -4821,5 +4821,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-13T17:25:56.791Z",
+    "listing_id": 4503250222,
+    "title": "Custom Two Birthstone Necklace, Personalized Heart Birthstone Necklace, Couple Necklace, Anniversary Gift for Her, Mom Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4503250222/custom-two-birthstone-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537217278",
+    "error": null
   }
 ]
