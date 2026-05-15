@@ -5081,5 +5081,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-15T20:36:50.672Z",
+    "listing_id": 4438294696,
+    "title": "Pink Lotus Flower Necklace, Summer Jewelry, Dainty Gold Necklace, Pink Stone Pendant, Romantic Jewelry, October Birthstone",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4438294696/pink-lotus-flower-necklace-valentines",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
