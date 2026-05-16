@@ -5107,5 +5107,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537364504",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-16T00:08:03.235Z",
+    "listing_id": 4505254622,
+    "title": "Custom Family Name Necklace with Heart, Multiple Name Necklace, Kids Name Necklace, Birthday Gift, Gift for Mom, Gift for Wife, Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4505254622/custom-family-name-necklace-with-heart",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
