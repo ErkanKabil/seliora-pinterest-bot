@@ -5172,5 +5172,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-16T16:09:53.385Z",
+    "listing_id": 4505278348,
+    "title": "Personalized Name Necklace, Custom Gold Nameplate Necklace, Dainty Script Necklace, Gift for Her, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4505278348/personalized-name-necklace-custom-gold",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537416750",
+    "error": null
   }
 ]
