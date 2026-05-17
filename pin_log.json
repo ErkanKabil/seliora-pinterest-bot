@@ -5302,5 +5302,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537490395",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-17T18:09:58.408Z",
+    "listing_id": 4505780197,
+    "title": "Custom Year Necklace with Venetian Box Chain, Personalized Old English Date Pendant, Summer Jewelry Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4505780197/custom-year-necklace-with-venetian-box",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537497931",
+    "error": null
   }
 ]
