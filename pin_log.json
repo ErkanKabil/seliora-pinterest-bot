@@ -5250,5 +5250,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537456032",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-17T05:02:15.031Z",
+    "listing_id": 4504589102,
+    "title": "Personalized Name Necklace Gold | Snake Chain Name Necklace | Custom Gold Name Pendant | Minimalist Script Necklace | Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4504589102/personalized-name-necklace-gold-snake",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537456990",
+    "error": null
   }
 ]
