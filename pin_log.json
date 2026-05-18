@@ -5341,5 +5341,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537512085",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-18T00:12:13.864Z",
+    "listing_id": 4506730570,
+    "title": "Personalized Birthstone Necklace with Initial, Custom Balloon Letter Necklace, Gold Dainty Charm Jewelry Gift for Women, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4506730570/personalized-birthstone-necklace-with",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537517335",
+    "error": null
   }
 ]
