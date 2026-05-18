@@ -5380,5 +5380,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537529307",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-18T14:41:13.544Z",
+    "listing_id": 4506723661,
+    "title": "Personalized Dainty Heart Birthstone Necklace, Gold Initial Letter Necklace, Customized Gift for Her, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4506723661/personalized-dainty-heart-birthstone",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
