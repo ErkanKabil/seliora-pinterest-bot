@@ -5497,5 +5497,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537596579",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-19T14:08:35.465Z",
+    "listing_id": 4507315954,
+    "title": "Fathers Day Gift, Custom Monogram Cufflinks, Personalized Brass Initials, Groom Wedding Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4507315954/fathers-day-gift-custom-monogram",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537617189",
+    "error": null
   }
 ]
