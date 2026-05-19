@@ -5536,5 +5536,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-19T19:17:49.410Z",
+    "listing_id": 4507372351,
+    "title": "Personalized Initial Necklace, Enamel Letter Necklace, Custom Initial Pendant, Dainty Minimalist Gold Jewelry, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4507372351/personalized-initial-necklace-enamel",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537634988",
+    "error": null
   }
 ]
