@@ -5679,5 +5679,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-20T22:47:01.190Z",
+    "listing_id": 4503863675,
+    "title": "Gold Starfish Necklace, Dainty Ocean Pendant, Minimalist Beach Jewelry, Tiny Coastal Charm Necklace, Summer Vacation Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4503863675/gold-starfish-necklace-dainty-ocean",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537711678",
+    "error": null
   }
 ]
