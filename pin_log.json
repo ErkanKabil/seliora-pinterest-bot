@@ -5575,5 +5575,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537646216",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-20T00:19:26.795Z",
+    "listing_id": 4507372985,
+    "title": "Waving American Flag Necklace, Patriotic Gold Pendant, 4th of July Gift, Commemorative 250th Anniversary Keepsake",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4507372985/waving-american-flag-necklace-patriotic",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
