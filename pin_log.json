@@ -5718,5 +5718,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-21T05:20:34.097Z",
+    "listing_id": 4477737091,
+    "title": "Mother&#39;s Day Gift, Bamboo Initial Necklace, Gold Wood Textured Letter Pendant, Personalized Nature Jewelry for Mom, Custom Alphabet Charm",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4477737091/mothers-day-gift-bamboo-initial-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537727225",
+    "error": null
   }
 ]
