@@ -5757,5 +5757,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537758197",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-21T17:36:11.471Z",
+    "listing_id": 4507809104,
+    "title": "3D Bubble Name Necklace, Custom Gold Plated Balloon Letter Pendant, Minimalist Jewelry, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4507809104/3d-bubble-name-necklace-custom-gold",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537762117",
+    "error": null
   }
 ]
