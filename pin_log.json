@@ -5783,5 +5783,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537769089",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-21T20:59:24.218Z",
+    "listing_id": 4508697282,
+    "title": "Classic Tennis Necklace, Dainty Simulated Diamond Choker, Bridal Wedding Jewelry, Silver CZ Chain, Everyday Layering Necklace Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4508697282/classic-tennis-necklace-dainty-simulated",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537774841",
+    "error": null
   }
 ]
