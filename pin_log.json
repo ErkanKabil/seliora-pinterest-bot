@@ -5848,5 +5848,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537795371",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-22T13:40:06.499Z",
+    "listing_id": 4443310015,
+    "title": "Square Birthstone Necklace, Summer Jewelry, Dainty Gold Necklace, Multi Stone Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4443310015/square-birthstone-necklace-valentines",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537815007",
+    "error": null
   }
 ]
