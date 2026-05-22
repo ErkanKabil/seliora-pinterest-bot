@@ -5900,5 +5900,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-22T20:52:45.376Z",
+    "listing_id": 4508694729,
+    "title": "Silver Tennis Necklace, Dainty Eternity Choker, Minimalist Layering Chain, Bridal Wedding Jewelry, Anniversary Gift for Her, Old Money Style",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4508694729/silver-tennis-necklace-dainty-eternity",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
