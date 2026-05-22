@@ -5809,5 +5809,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537779152",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-22T00:17:27.289Z",
+    "listing_id": 4507375508,
+    "title": "Personalized Initial Necklace in Gold, Custom Monogram Letter Pendant, Bridesmaid Gift, Dainty Enamel Jewelry, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4507375508/personalized-initial-necklace-in-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
