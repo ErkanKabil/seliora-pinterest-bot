@@ -5991,5 +5991,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-23T16:14:15.569Z",
+    "listing_id": 4507822726,
+    "title": "Custom Double Birthstone Ring – Heart Shaped Minimal Gold Ring, Personalized Summer Jewelry, Dainty Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4507822726/custom-double-birthstone-ring-heart",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537894234",
+    "error": null
   }
 ]
