@@ -6030,5 +6030,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-23T22:11:58.571Z",
+    "listing_id": 4445016005,
+    "title": "Gold Initial Heart Necklace, Dainty Cast Letter Pendant, Personalized Couple Jewelry, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4445016005/gold-initial-heart-necklace-dainty-cast",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537916539",
+    "error": null
   }
 ]
