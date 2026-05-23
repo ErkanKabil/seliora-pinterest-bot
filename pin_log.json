@@ -5926,5 +5926,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537843298",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-23T00:17:42.786Z",
+    "listing_id": 4444296056,
+    "title": "Love Necklace Pendant, Gold Love Charm Necklace, Summer Jewelry, Romantic Jewelry, Anniversary Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4444296056/love-necklace-pendant-gold-love-charm",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978537848792",
+    "error": null
   }
 ]
