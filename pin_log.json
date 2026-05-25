@@ -6199,5 +6199,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538002534",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-25T14:19:42.585Z",
+    "listing_id": 4509820876,
+    "title": "Birthstone Necklace for Mom, Summer Jewelry, Birthstone Family Necklace, Personalized Gold Gemstone Pendant, Dainty Birthstone Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4509820876/birthstone-necklace-for-mom-summer",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538024141",
+    "error": null
   }
 ]
