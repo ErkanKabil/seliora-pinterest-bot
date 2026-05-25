@@ -6238,5 +6238,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538033769",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-25T18:54:15.157Z",
+    "listing_id": 4510755583,
+    "title": "Sideways Cross Necklace, Dainty Gold Cross Pendant, Minimalist Religious Jewelry, Layering Necklace, Dainty Gold Jewelry, Gift For Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4510755583/sideways-cross-necklace-dainty-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
