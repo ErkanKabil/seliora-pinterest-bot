@@ -6160,5 +6160,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978537983611",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-25T00:14:56.307Z",
+    "listing_id": 4445012752,
+    "title": "Custom Cast Initial Necklace, Oval Letter Pendant, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4445012752/custom-cast-initial-necklace-oval-letter",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
