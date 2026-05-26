@@ -6290,5 +6290,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538054608",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-26T04:35:59.451Z",
+    "listing_id": 4445657043,
+    "title": "Birthstone Bracelet, Gold Chain Bracelet, Summer Jewelry, Custom Family Birthstone Jewelry, Dainty Minimalist Bracelet",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Birthstone Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4445657043/birthstone-bracelet-gold-chain-bracelet",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
