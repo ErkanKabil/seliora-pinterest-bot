@@ -6329,5 +6329,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538090246",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-26T16:54:52.932Z",
+    "listing_id": 4507785351,
+    "title": "Personalized Script Name Necklace, Dainty 14K Gold Plated Brass Jewelry, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4507785351/personalized-script-name-necklace-dainty",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538099451",
+    "error": null
   }
 ]
