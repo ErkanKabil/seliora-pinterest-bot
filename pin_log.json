@@ -6485,5 +6485,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538180550",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-27T21:16:27.241Z",
+    "listing_id": 4447124894,
+    "title": "Vertical Name Necklace, Custom Gold Nameplate Pendant, Personalized Summer Jewelry, Girlfriend Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4447124894/vertical-name-necklace-custom-gold",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538185772",
+    "error": null
   }
 ]
