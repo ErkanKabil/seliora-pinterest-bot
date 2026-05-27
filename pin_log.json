@@ -6407,5 +6407,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538124335",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-27T04:49:45.465Z",
+    "listing_id": 4510758038,
+    "title": "Rainbow Baguette Bar Necklace, Minimalist Gold Layering Jewelry, Dainty Colorful Gemstone Pendant, Birthday Gift for Her, Everyday Statement",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4510758038/rainbow-baguette-bar-necklace-minimalist",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
