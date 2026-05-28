@@ -6576,5 +6576,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538241879",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-28T18:21:34.345Z",
+    "listing_id": 4510148222,
+    "title": "Gold Initial Necklace, Dainty Bubble Letter Pendant, Personalized Jewelry, Minimalist Gold Chain, Custom Letter Charm, Everyday Dainty Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4510148222/gold-initial-necklace-dainty-bubble",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538245966",
+    "error": null
   }
 ]
