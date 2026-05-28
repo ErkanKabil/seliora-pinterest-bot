@@ -6537,5 +6537,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-28T05:21:08.914Z",
+    "listing_id": 4512124836,
+    "title": "Personalized Script Name Necklace, 14K Gold Plated Brass Nameplate, Dainty Minimalist Jewelry, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4512124836/personalized-script-name-necklace-14k",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538207439",
+    "error": null
   }
 ]
