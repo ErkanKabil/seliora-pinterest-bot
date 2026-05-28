@@ -6602,5 +6602,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538250890",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-28T21:22:22.927Z",
+    "listing_id": 4510147218,
+    "title": "Dainty Evil Eye Necklace, Gold Nazar Charm, Minimalist Protection Jewelry, Tiny Blue Eye Pendant, Everyday Layering, Good Luck Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4510147218/dainty-evil-eye-necklace-gold-nazar",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
