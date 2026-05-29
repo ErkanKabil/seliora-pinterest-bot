@@ -6706,5 +6706,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538312599",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-29T19:41:17.731Z",
+    "listing_id": 4510808567,
+    "title": "Multi Letter Heart Necklace, Sideways Nameplate, Personalized Family Initial, Dainty Gold Statement, Bridesmaid Jewelry Gift, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4510808567/multi-letter-heart-necklace-sideways",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
