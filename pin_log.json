@@ -6810,5 +6810,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-30T16:17:28.410Z",
+    "listing_id": 4430391746,
+    "title": "Compass Star Circle Necklace • North Star Pendant • Gold Plated Minimal Women’s Necklace",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4430391746/compass-star-circle-necklace-north-star",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538374461",
+    "error": null
   }
 ]
