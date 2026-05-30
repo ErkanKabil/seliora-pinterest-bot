@@ -6849,5 +6849,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538388413",
     "error": null
+  },
+  {
+    "timestamp": "2026-05-30T22:16:08.509Z",
+    "listing_id": 4513374716,
+    "title": "Tiny North Star Necklace, Dainty Gold Celestial Pendant, Minimalist Star Charm, Everyday Layering Jewelry, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4513374716/tiny-north-star-necklace-dainty-gold",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538393517",
+    "error": null
   }
 ]
