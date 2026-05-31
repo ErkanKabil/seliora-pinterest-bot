@@ -6888,5 +6888,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-05-31T05:46:35.501Z",
+    "listing_id": 4447980569,
+    "title": "14k Plated Dragonfly, Dainty Insect Charm, Tarnish Free Chain, Summer Jewelry, Waterproof Necklace, Minimalist Pendant",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4447980569/dragonfly-necklace-gold-dragonfly",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538411619",
+    "error": null
   }
 ]
