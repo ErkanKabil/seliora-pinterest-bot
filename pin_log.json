@@ -7005,5 +7005,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-01T06:20:04.083Z",
+    "listing_id": 4447136359,
+    "title": "Gold Saxophone Charm Necklace, Minimalist Music Jewelry, Jazz Lover Gift, Romantic Gift for Girlfriend, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4447136359/gold-saxophone-charm-necklace-minimalist",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538481330",
+    "error": null
   }
 ]
