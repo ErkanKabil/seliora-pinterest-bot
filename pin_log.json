@@ -7135,5 +7135,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538547824",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-02T15:14:48.020Z",
+    "listing_id": 4500487747,
+    "title": "Mother&#39;s Day Gift, Interlocking Hearts Necklace, Double Heart Pendant, Minimalist Gold Jewelry for Mom",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4500487747/mothers-day-gift-interlocking-hearts",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538572414",
+    "error": null
   }
 ]
