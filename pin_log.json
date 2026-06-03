@@ -7317,5 +7317,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-03T23:16:10.126Z",
+    "listing_id": 4514805408,
+    "title": "Custom Multi Name Necklace, Personalized Heart Jewelry, Any Names Necklace for Mom, Dainty Gold Interlocking Hearts, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4514805408/custom-multi-name-necklace-personalized",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538668593",
+    "error": null
   }
 ]
