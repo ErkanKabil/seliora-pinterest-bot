@@ -7369,5 +7369,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538687141",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-04T14:12:26.489Z",
+    "listing_id": 4468724807,
+    "title": "Personalized Coordinate Bar Necklace, Custom Latitude Longitude Jewelry, Summer Jewelry, Engraved Bar Pendant, Custom Location Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4468724807/personalized-coordinate-bar-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538710367",
+    "error": null
   }
 ]
