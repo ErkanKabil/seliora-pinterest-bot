@@ -7447,5 +7447,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538741586",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-05T00:22:28.212Z",
+    "listing_id": 4515987425,
+    "title": "Minimalist Seed Pearl Choker, Ultra Thin Micro Pearl Necklace, Summer Beach Luxury Jewelry, Delicate Everyday Layering Gift, Elegant Choker",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4515987425/minimalist-seed-pearl-choker-ultra-thin",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
