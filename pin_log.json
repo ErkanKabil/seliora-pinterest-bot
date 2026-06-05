@@ -7551,5 +7551,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-05T22:38:11.073Z",
+    "listing_id": 4500457193,
+    "title": "Summer Jewelry, Gold Letter Ring, Personalized Custom Name Ring, Signet Ring, Minimal Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4500457193/summer-jewelry-gold-letter-ring",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538814569",
+    "error": null
   }
 ]
