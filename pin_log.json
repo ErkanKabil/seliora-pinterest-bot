@@ -7642,5 +7642,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538862553",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-06T18:21:20.610Z",
+    "listing_id": 4447144539,
+    "title": "Gold Cross Necklace, Dainty Cross Pendant, Minimalist Faith Jewelry, Meaningful Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4447144539/gold-cross-necklace-dainty-cross-pendant",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
