@@ -7564,5 +7564,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538814569",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-06T00:21:23.356Z",
+    "listing_id": 4451794124,
+    "title": "Heart Necklace, Summer Jewelry, Gold Heart Necklace, Romantic Jewelry, Dainty Crystal Necklace",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4451794124/heart-necklace-mothers-day-gift-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
