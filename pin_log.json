@@ -7629,5 +7629,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538857414",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-06T16:20:21.813Z",
+    "listing_id": 4498840356,
+    "title": "Custom Initial Necklace, Personalized Letter Charm Necklace, Dainty Gold Disc Necklace, Custom Name Jewelry, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4498840356/custom-initial-necklace-personalized",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538862553",
+    "error": null
   }
 ]
