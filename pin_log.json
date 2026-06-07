@@ -7681,5 +7681,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978538883327",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-07T00:18:34.530Z",
+    "listing_id": 4514783990,
+    "title": "Cross Birthstone Necklace, Sterling Silver Cross Necklace, Birthstone Pendant Necklace, Minimalist Christian Jewelry, Summer Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4514783990/cross-birthstone-necklace-sterling",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
