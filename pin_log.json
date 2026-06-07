@@ -7785,5 +7785,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-07T22:20:50.944Z",
+    "listing_id": 4451788742,
+    "title": "Lotus Bracelet, Summer Jewelry, Minimal Gold Bracelet, Spiritual Jewelry, Dainty Gemstone Bracelet",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Luxury Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4451788742/lotus-bracelet-mothers-day-gift-minimal",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538951562",
+    "error": null
   }
 ]
