@@ -7889,5 +7889,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978539012233",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-08T21:19:51.235Z",
+    "listing_id": 4516002371,
+    "title": "Personalized Initial Necklace with Heart, Custom Script Letter Pendant, Dainty Gold Plated Jewelry, Romantic Anniversary Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4516002371/personalized-initial-necklace-with-heart",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
