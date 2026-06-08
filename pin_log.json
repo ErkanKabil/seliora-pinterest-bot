@@ -7811,5 +7811,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-08T05:02:56.877Z",
+    "listing_id": 4518057814,
+    "title": "Personalized Balloon Initial Necklace, 3D Custom Bubble Letter Pendant, Trendy Birthday Gift for Her, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4518057814/personalized-balloon-initial-necklace-3d",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978538969896",
+    "error": null
   }
 ]
