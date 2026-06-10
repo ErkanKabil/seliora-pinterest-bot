@@ -8123,5 +8123,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-10T21:29:56.601Z",
+    "listing_id": 4515994136,
+    "title": "Personalized Birthstone Necklace with Heart, Custom Family Gemstone Pendant, Birthday Gift for Her, Summer Necklace",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4515994136/personalized-birthstone-necklace-with",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
