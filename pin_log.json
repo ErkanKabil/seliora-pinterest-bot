@@ -8188,5 +8188,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978539188327",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-11T14:58:08.126Z",
+    "listing_id": 4496888229,
+    "title": "Custom Name Necklace, Personalized Gold Nameplate Necklace, Dainty Kids Name Necklace, Summer Jewelry, Toddler Name Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4496888229/custom-name-necklace-personalized-gold",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978539212783",
+    "error": null
   }
 ]
