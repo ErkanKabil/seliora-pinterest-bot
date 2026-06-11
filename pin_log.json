@@ -8175,5 +8175,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-11T06:06:21.260Z",
+    "listing_id": 4497935023,
+    "title": "Red Heart Lock Necklace, Personalized Heart Padlock Pendant, 14K Gold Dainty Evil Eye Jewelry, Minimalist Love Gift, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4497935023/red-heart-lock-necklace-personalized",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978539188327",
+    "error": null
   }
 ]
