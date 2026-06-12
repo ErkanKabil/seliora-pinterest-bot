@@ -8370,5 +8370,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-12T22:50:29.366Z",
+    "listing_id": 4520925636,
+    "title": "Dainty Celestial Necklace, Gold Coin Pendant, Summer Beach Jewelry, Blue Enamel Starry Night Charm, Coastal Boho Gift, Mountain Necklace",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4520925636/dainty-celestial-necklace-gold-coin",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978539315550",
+    "error": null
   }
 ]
