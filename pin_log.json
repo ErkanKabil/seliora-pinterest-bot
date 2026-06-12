@@ -8266,5 +8266,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978539240880",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-12T01:41:29.056Z",
+    "listing_id": 4455163839,
+    "title": "1776-2026 Infinity Necklace, America 250th Anniversary Gift, Patriotic Freedom Pendant, 4th of July Memorial Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4455163839/1776-2026-infinity-necklace-america",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
