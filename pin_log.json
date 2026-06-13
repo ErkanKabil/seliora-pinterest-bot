@@ -8474,5 +8474,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-13T20:42:48.641Z",
+    "listing_id": 4432537452,
+    "title": "Heart Lovers Necklace, Gold Plated Zircon Couple Necklace, Summer Jewelry, Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4432537452/heart-lovers-necklace-gold-plated-zircon",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
