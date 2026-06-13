@@ -8383,5 +8383,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978539315550",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-13T01:36:05.313Z",
+    "listing_id": 4448745663,
+    "title": "Personalized Paw Necklace, Custom Name Bar Necklace, Summer Jewelry, Dog Lover Jewelry, Cat Lover Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4448745663/personalized-paw-necklace-custom-name",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
