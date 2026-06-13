@@ -8422,5 +8422,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978539333428",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-13T13:00:57.864Z",
+    "listing_id": 4433601555,
+    "title": "Personalized Secret Message Locket, Summer Jewelry, Custom Name Heart Necklace, Hidden Love Note Pendant",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4433601555/personalized-secret-message-locket",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
