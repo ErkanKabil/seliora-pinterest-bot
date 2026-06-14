@@ -8513,5 +8513,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-14T05:08:07.028Z",
+    "listing_id": 4520949612,
+    "title": "Dainty Flower Necklace, Light Blue Enamel Daisy Charm, 14k Gold Cable Chain Choker, Minimalist Everyday Jewelry, Summer Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4520949612/dainty-flower-necklace-light-blue-enamel",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978539398971",
+    "error": null
   }
 ]
