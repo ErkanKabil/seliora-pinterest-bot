@@ -8604,5 +8604,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-14T22:37:40.220Z",
+    "listing_id": 4495704536,
+    "title": "3D Bubble Name Necklace, Custom Balloon Letter Pendant, Initial Necklace with Heart, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4495704536/3d-bubble-name-necklace-custom-balloon",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978539452031",
+    "error": null
   }
 ]
