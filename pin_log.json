@@ -8539,5 +8539,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978539401388",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-14T13:06:29.381Z",
+    "listing_id": 4495699113,
+    "title": "Initial Necklace with Evil Eye, Personalized 14K Gold Letter Pendant, Minimalist Dainty Jewelry, Birthday Gift for Her, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4495699113/initial-necklace-with-evil-eye",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
