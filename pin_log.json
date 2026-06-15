@@ -8617,5 +8617,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978539452031",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-15T01:42:43.623Z",
+    "listing_id": 4520949066,
+    "title": "Dainty Gold Star Necklace, Minimalist Celestial Pendant, Tiny Star Choker, Everyday Layering Jewelry, Birthday Gift for Her, Delicate Chain",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4520949066/dainty-gold-star-necklace-minimalist",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
