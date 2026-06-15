@@ -8656,5 +8656,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978539502277",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-15T18:04:16.755Z",
+    "listing_id": 4448086669,
+    "title": "Star Necklace, Gold Star Necklace, Summer Jewelry, Minimal Star Jewelry, Romantic Necklace",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4448086669/star-necklace-gold-star-necklace-mothers",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
