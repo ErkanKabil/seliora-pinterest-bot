@@ -8890,5 +8890,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978539641561",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-17T16:46:09.095Z",
+    "listing_id": 4430736038,
+    "title": "Teardrop Birthstone Necklace, Family Birthstone Necklace, Summer Jewelry, Custom Drop Gemstone Pendant, Gift for Mom",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4430736038/teardrop-birthstone-necklace-family",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
