@@ -9085,5 +9085,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978539753763",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-19T05:25:52.358Z",
+    "listing_id": 4458537740,
+    "title": "Personalized Family Tree Necklace, Custom Name Tree Pendant, Engraved Gold Family Necklace, Gift for Mom, Grandma Gift, Mothers Day Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4458537740/personalized-family-tree-necklace-custom",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
