@@ -9215,5 +9215,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-20T05:44:27.948Z",
+    "listing_id": 4458529231,
+    "title": "Personalized Paw Print Name Necklace, Custom Pet Name Necklace, Engraved Oval Pendant, Dog Mom Gift, Cat Lover Jewelry, Minimalist Necklace",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4458529231/personalized-paw-print-name-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978539838735",
+    "error": null
   }
 ]
