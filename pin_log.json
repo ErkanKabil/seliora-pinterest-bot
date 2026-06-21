@@ -9345,5 +9345,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-21T13:20:43.154Z",
+    "listing_id": 4494603173,
+    "title": "Custom Initial Lock Necklace, 14K Gold Padlock Pendant, Personalized Letter Jewelry, Tiny Charm Necklace, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4494603173/custom-initial-lock-necklace-14k-gold",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978539932150",
+    "error": null
   }
 ]
