@@ -9423,5 +9423,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-22T01:42:53.351Z",
+    "listing_id": 4523658681,
+    "title": "Personalized Birthstone Cross Necklace, Gold Cross Necklace for Women, Custom Birthstone Jewelry, Christian Gift, Dainty Faith Necklace",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4523658681/personalized-birthstone-cross-necklace",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
