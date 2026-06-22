@@ -9488,5 +9488,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978540018111",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-22T18:54:54.443Z",
+    "listing_id": 4494108868,
+    "title": "Custom Heart Initial Necklace, 14K Gold Dainty Nameplate, Personalized Letter Pendant, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4494108868/custom-heart-initial-necklace-14k-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
