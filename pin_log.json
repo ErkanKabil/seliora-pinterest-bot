@@ -9618,5 +9618,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978540087599",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-23T19:19:11.300Z",
+    "listing_id": 4492837039,
+    "title": "Summer Jewelry, Gold Name Ring, Personalized Custom Name Ring, Signet Ring, Minimal Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4492837039/summer-jewelry-gold-name-ring",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
