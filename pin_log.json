@@ -9657,5 +9657,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-24T00:13:12.111Z",
+    "listing_id": 4490819013,
+    "title": "Custom Initial Necklace, Personalized Letter Pendant, 14k Gold Monogram Necklace, Dainty Letter Jewelry, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4490819013/custom-initial-necklace-personalized",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978540109179",
+    "error": null
   }
 ]
