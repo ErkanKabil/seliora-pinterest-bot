@@ -9748,5 +9748,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978540165094",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-24T20:58:17.536Z",
+    "listing_id": 4524681785,
+    "title": "Custom Gold Angel Number Pendant Necklace, Minimalist Script Jewelry, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4524681785/custom-gold-angel-number-pendant",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
