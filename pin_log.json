@@ -9683,5 +9683,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-24T05:12:30.552Z",
+    "listing_id": 4523672422,
+    "title": "Personalized Cat Name Necklace, Custom Pet Name Necklace, Cat Mom Gift, Multiple Cat Necklace, Pet Lover Jewelry, Fur Baby Keepsake",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4523672422/personalized-cat-name-necklace-custom",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
