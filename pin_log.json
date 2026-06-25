@@ -9826,5 +9826,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978540216689",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-25T15:48:10.434Z",
+    "listing_id": 4453609012,
+    "title": "Dainty Multi Birthstone Necklace in Gold | Minimal Bezel Set Gemstone Necklace | Personalized Meaningful Jewelry Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4453609012/dainty-multi-birthstone-necklace-in-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
