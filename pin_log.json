@@ -9865,5 +9865,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978540238052",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-25T21:04:35.044Z",
+    "listing_id": 4462541201,
+    "title": "250 Years Freedom Custom Necklace, America 250th Anniversary Gift, 14K Gold Personalized Jewelry, Summer Jewelry, Disc Necklace",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4462541201/250-years-freedom-custom-necklace",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
