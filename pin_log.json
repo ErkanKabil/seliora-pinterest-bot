@@ -9930,5 +9930,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-26T13:24:25.564Z",
+    "listing_id": 4462541194,
+    "title": "Custom Arabic Name Necklace, 14K Gold Personalized Jewelry, Summer Jewelry, Dainty Arabic Nameplate, Birthday Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4462541194/custom-arabic-name-necklace-14k-gold",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978540288272",
+    "error": null
   }
 ]
