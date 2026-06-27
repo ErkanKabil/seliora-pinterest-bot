@@ -10047,5 +10047,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-27T12:45:53.962Z",
+    "listing_id": 4462600440,
+    "title": "Custom Birthstone Necklace, Add Multiple Stones, Personalized Family Necklace for Mom, Mother’s Day Gift, Gold Birthstone Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4462600440/custom-birthstone-necklace-add-multiple",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978540358437",
+    "error": null
   }
 ]
