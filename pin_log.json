@@ -10164,5 +10164,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-28T12:46:17.828Z",
+    "listing_id": 4444328483,
+    "title": "Custom Name Necklace, Personalized Name Pendant, Solid Gold Custom Jewelry, Gift for Girlfriend, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4444328483/custom-name-necklace-personalized-name",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978540433924",
+    "error": null
   }
 ]
