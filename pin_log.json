@@ -10242,5 +10242,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-06-29T00:20:46.381Z",
+    "listing_id": 4438479207,
+    "title": "Solid Gold Initial Necklace, Initial Letter Charm, Summer Jewelry, 14K Gold Charm",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4438479207/solid-gold-initial-necklace-initial",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978540474406",
+    "error": null
   }
 ]
