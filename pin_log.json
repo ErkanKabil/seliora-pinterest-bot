@@ -10255,5 +10255,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978540474406",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-29T05:00:34.943Z",
+    "listing_id": 4529505512,
+    "title": "Personalized Custom Name Ring, Dainty Name Ring, Engraved Ring, Name Jewelry, 14K Solid Gold Name Ring, Ring for Women, Gift For Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4529505512/personalized-custom-name-ring-dainty",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
