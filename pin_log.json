@@ -10411,5 +10411,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978540580986",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-30T15:44:02.975Z",
+    "listing_id": 4464139887,
+    "title": "Custom Arabic Name Necklace, Personalized Gold Nameplate Necklace, 14k Gold Plated Arabic Jewelry, Summer Jewelry For Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4464139887/custom-arabic-name-necklace-personalized",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
