@@ -10372,5 +10372,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978540547172",
     "error": null
+  },
+  {
+    "timestamp": "2026-06-30T04:35:19.178Z",
+    "listing_id": 4443636945,
+    "title": "Mother and Child Necklace, Gold Mom Necklace, Mother’s Day Gift for Mom, Family Love Necklace, Meaningful Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4443636945/mother-and-child-necklace-gold-mom",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978540557403",
+    "error": null
   }
 ]
