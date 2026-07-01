@@ -1388,5 +1388,10 @@
     "listing_id": 4530399712,
     "pins_shared": 3,
     "completed": true
+  },
+  {
+    "listing_id": 4462844072,
+    "pins_shared": 1,
+    "completed": false
   }
 ]
