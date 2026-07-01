@@ -10528,5 +10528,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978540658780",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-01T15:56:49.452Z",
+    "listing_id": 4393468000,
+    "title": "14K Gold Custom Name Necklace, Personalized Nameplate Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4393468000/14k-gold-custom-name-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978540667046",
+    "error": null
   }
 ]
