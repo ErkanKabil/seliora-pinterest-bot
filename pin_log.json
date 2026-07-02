@@ -10606,5 +10606,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978540695545",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-02T04:22:56.674Z",
+    "listing_id": 4528861225,
+    "title": "14K Solid Gold Evil Eye Birthstone Earrings, Real Gold Dainty Nazar Protection Huggies, Summer Aesthetic Celestial Jewelry, Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4528861225/14k-solid-gold-evil-eye-birthstone",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
