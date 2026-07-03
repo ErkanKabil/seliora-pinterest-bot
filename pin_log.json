@@ -10749,5 +10749,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-03T13:14:55.658Z",
+    "listing_id": 4464458417,
+    "title": "Gothic Initial Necklace, Old English Letter Pendant, 14k Gold Plated Alphabet Jewelry, Personalized Gift for Her, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4464458417/gothic-initial-necklace-old-english",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978540800548",
+    "error": null
   }
 ]
