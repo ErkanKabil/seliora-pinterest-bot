@@ -10710,5 +10710,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-03T00:20:36.998Z",
+    "listing_id": 4462604982,
+    "title": "14K Gold Personalized Name Necklace with Birthstones, Custom Gold Family Necklace, Mother’s Day Gift for Mom, Multiple Birthstone Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4462604982/14k-gold-personalized-name-necklace-with",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978540766641",
+    "error": null
   }
 ]
