@@ -10775,5 +10775,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-03T16:46:16.626Z",
+    "listing_id": 4530598383,
+    "title": "Gold Hoop Earrings, Dainty Teardrop Dangle Earring, Elegant Bridal Jewelry Gift for Her, Round Crystal Stud drop Earrings",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4530598383/gold-hoop-earrings-dainty-teardrop",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978540812872",
+    "error": null
   }
 ]
