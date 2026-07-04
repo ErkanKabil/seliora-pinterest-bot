@@ -10853,5 +10853,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-04T12:38:06.554Z",
+    "listing_id": 4459574006,
+    "title": "Mother’s Day Gift Necklace, Baby Footprint Gold Pendant, Mom Jewelry, New Mom Gift, Diamond Heart Necklace for Mother",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4459574006/mothers-day-gift-necklace-baby-footprint",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978540868545",
+    "error": null
   }
 ]
