@@ -10827,5 +10827,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-04T04:02:39.168Z",
+    "listing_id": 4531696110,
+    "title": "Baroque Pearl Cluster Studs, Elegant Emerald Cut Crystal Earrings, Luxury Bridal Jewelry, Statement Gold Earring, Vintage Inspired Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4531696110/baroque-pearl-cluster-studs-elegant",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978540846759",
+    "error": null
   }
 ]
