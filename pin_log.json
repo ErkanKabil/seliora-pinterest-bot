@@ -10918,5 +10918,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978540895851",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-04T22:14:49.968Z",
+    "listing_id": 4531679867,
+    "title": "Gold Circle Drop Earrings, Crystal Halo Dangle Studs, Dainty Round Geometric Hoop Earring, Sparkly Bridal Jewelry Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4531679867/gold-circle-drop-earrings-crystal-halo",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
