@@ -10996,5 +10996,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978540947468",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-05T16:19:50.129Z",
+    "listing_id": 4465550611,
+    "title": "Custom Gothic Name Necklace, 14k Gold Plated Old English Jewelry, Birthday Gift for Her, Minimalist Nameplate Choker, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4465550611/custom-gothic-name-necklace-14k-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
