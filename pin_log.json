@@ -10957,5 +10957,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978540918984",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-05T05:09:11.115Z",
+    "listing_id": 4465566013,
+    "title": "Korean Name Necklace, Personalized Hangul Necklace, 14k Gold Plated Jewelry, Custom Nameplate, Dainty Gift For Women, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4465566013/korean-name-necklace-personalized-hangul",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
