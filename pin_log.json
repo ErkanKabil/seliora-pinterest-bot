@@ -11126,5 +11126,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541031145",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-06T19:04:57.075Z",
+    "listing_id": 4448765800,
+    "title": "Pearl Necklace, Summer Jewelry, Dainty Pearl Necklace, Minimal Gold Necklace, Romantic Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4448765800/pearl-necklace-mothers-day-gift-dainty",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978541035415",
+    "error": null
   }
 ]
