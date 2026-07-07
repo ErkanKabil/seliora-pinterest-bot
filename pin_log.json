@@ -11165,5 +11165,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541048968",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-07T00:21:32.223Z",
+    "listing_id": 4530613914,
+    "title": "Dainty Evil Eye Earrings, Gold Huggie Hoops, Teardrop Dangle Earrings, Sapphire Blue Protection Jewelry, Minimalist Boho Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4530613914/dainty-evil-eye-earrings-gold-huggie",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
