@@ -11217,5 +11217,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-07T15:59:03.224Z",
+    "listing_id": 4462592883,
+    "title": "Double Birthstone Necklace for Mom, Personalized Gold Double Stone Pendant, Mother’s Day Gift, Custom Family Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4462592883/double-birthstone-necklace-for-mom",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978541098262",
+    "error": null
   }
 ]
