@@ -11230,5 +11230,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541098262",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-07T17:27:21.279Z",
+    "listing_id": 4466093293,
+    "title": "Birthstone Teardrop Necklace, 14k Gold Plated Jewelry, Minimalist Solitaire Pendant for Her, Tarnish Free Dainty Chain, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4466093293/birthstone-teardrop-necklace-14k-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
