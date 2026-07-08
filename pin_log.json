@@ -11308,5 +11308,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541137438",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-08T04:30:33.364Z",
+    "listing_id": 4459868654,
+    "title": "Daisy Flower Necklace, Spring Jewelry Gift for Her, Summer Jewelry, White Enamel Floral Pendant, Cute Gold Charm Necklace",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4459868654/daisy-flower-necklace-spring-jewelry",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
