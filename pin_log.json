@@ -11425,5 +11425,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541214731",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-09T05:06:41.898Z",
+    "listing_id": 4534192460,
+    "title": "Pearl Drop Earrings, Gold Bridal Earrings, CZ Dangle Earrings, Wedding Jewelry, Bridesmaid Gift, Elegant Pearl Earrings for Women",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4534192460/pearl-drop-earrings-gold-bridal-earrings",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
