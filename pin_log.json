@@ -11581,5 +11581,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541330117",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-10T17:08:28.717Z",
+    "listing_id": 4535339037,
+    "title": "Personalized Sound Wave Necklace, Custom Voice Message Necklace, Engraved Gold Disc Pendant, Anniversary Gift for Her, Long Distance Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4535339037/personalized-sound-wave-necklace-custom",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
