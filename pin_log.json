@@ -11620,5 +11620,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541349664",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-10T22:19:51.888Z",
+    "listing_id": 4531682413,
+    "title": "Gold Pineapple Earrings, Emerald Green Crystal Studs, Tropical Fruit Jewelry, Unique Summer Gift for Her, Delicate Whimsical Statement Drops",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4531682413/gold-pineapple-earrings-emerald-green",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
