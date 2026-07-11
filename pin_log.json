@@ -11685,5 +11685,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-11T14:34:41.655Z",
+    "listing_id": 4460823318,
+    "title": "Dolphin Necklace Gold, Summer Beach Jewelry, Minimal Ocean Pendant, Cute Whale Necklace, Coastal Gold Charm for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4460823318/dolphin-necklace-gold-summer-beach",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978541402227",
+    "error": null
   }
 ]
