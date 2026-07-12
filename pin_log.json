@@ -11750,5 +11750,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-12T00:12:30.818Z",
+    "listing_id": 4401914972,
+    "title": "Sterling Gold Custom Name Necklace, Script Pendant",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4401914972/sterling-gold-custom-name-necklace",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
