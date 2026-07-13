@@ -11932,5 +11932,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541562142",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-13T17:24:11.046Z",
+    "listing_id": 4536547341,
+    "title": "Luxury Gala Crystal Flower Cluster Bracelet, High Fashion Butterfly Statement Cuff, Rhodium Silver Plated Prom Runway Jewelry Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Luxury Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4536547341/luxury-gala-crystal-flower-cluster",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
