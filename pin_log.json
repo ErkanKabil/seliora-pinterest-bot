@@ -11971,5 +11971,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541582219",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-13T22:13:59.028Z",
+    "listing_id": 4534194064,
+    "title": "Gold Diamond Hoop Earrings, Dainty CZ Hoop Earrings, Minimalist Everyday Jewelry, Bridesmaid Gift, Elegant Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4534194064/gold-diamond-hoop-earrings-dainty-cz",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
