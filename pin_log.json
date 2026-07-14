@@ -12075,5 +12075,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-14T20:34:10.900Z",
+    "listing_id": 4468720395,
+    "title": "Custom Initial Necklace with Diamond Pave, Personalized Letter Pendant A-Z, Summer Jewelry, 14K Gold Pave Diamond Necklace",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4468720395/custom-initial-necklace-with-diamond",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978541658551",
+    "error": null
   }
 ]
