@@ -12088,5 +12088,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541658551",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-14T22:15:44.365Z",
+    "listing_id": 4466141797,
+    "title": "Dainty Lightning Bolt Necklace, 14k Gold Plated Flash Pendant, Waterproof Minimalist Jewelry, Mother’s Day Gift, Celestial Charm",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4466141797/dainty-lightning-bolt-necklace-14k-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
