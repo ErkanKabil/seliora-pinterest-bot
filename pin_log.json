@@ -12010,5 +12010,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541604228",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-14T04:16:17.163Z",
+    "listing_id": 4470467238,
+    "title": "Heart Birthstone Necklace, 14K Gold Plated Heart Gemstone, Summer Jewelry, Minimalist Personalized Jewelry,",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4470467238/heart-birthstone-necklace-14k-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
