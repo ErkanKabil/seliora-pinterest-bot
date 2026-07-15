@@ -12140,5 +12140,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541681938",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-15T12:45:50.573Z",
+    "listing_id": 4461292892,
+    "title": "Birthstone Necklace for Mom, Summer Jewelry, Family Birthstone Bar Necklace, Personalized Gold Jewelry, Custom Gemstone Necklace",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4461292892/birthstone-necklace-for-mom-summer",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
