@@ -12205,5 +12205,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541734716",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-15T22:16:31.291Z",
+    "listing_id": 4538294871,
+    "title": "Personalized Travel Gift, Custom City Jewelry Dish, Vacation Memory Keepsake, Tiny Planet Ring Dish, Gift for Travelers",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Ring",
+    "etsy_url": "https://www.etsy.com/listing/4538294871/personalized-travel-gift-custom-city",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
