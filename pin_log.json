@@ -12309,5 +12309,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541800272",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-16T20:14:00.235Z",
+    "listing_id": 4471032122,
+    "title": "Solid Gold Initial Necklace, Custom Letter Pendant, Summer Jewelry, Font Selection Necklace, 14K Gold Charm",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4471032122/solid-gold-initial-necklace-custom",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978541808004",
+    "error": null
   }
 ]
