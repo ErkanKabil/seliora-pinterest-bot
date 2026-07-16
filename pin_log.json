@@ -12270,5 +12270,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541780647",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-16T15:16:02.908Z",
+    "listing_id": 4470349001,
+    "title": "Custom Initial Necklace, Dangling Name Necklace, Personalized Family Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4470349001/custom-initial-necklace-dangling-name",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978541788676",
+    "error": null
   }
 ]
