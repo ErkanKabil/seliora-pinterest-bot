@@ -12387,5 +12387,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541853630",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-17T14:55:31.769Z",
+    "listing_id": 4392549852,
+    "title": "14K Gold Personalized Name Necklace, Elegant Script Pendant",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4392549852/14k-gold-personalized-name-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978541862747",
+    "error": null
   }
 ]
