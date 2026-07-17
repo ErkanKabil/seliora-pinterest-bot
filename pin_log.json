@@ -12439,5 +12439,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541883305",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-17T22:09:44.791Z",
+    "listing_id": 4533368098,
+    "title": "Princess Cut Tennis Necklace with Teardrop, 925 Silver CZ Diamond Choker, Rhodium Gold Plated Bridal Eternity Jewelry, Luxury Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4533368098/princess-cut-tennis-necklace-with",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
