@@ -12335,5 +12335,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-17T00:13:59.253Z",
+    "listing_id": 4467728972,
+    "title": "14k Gold Plated Shell Necklace, Ocean Inspired Jewelry, Summer Jewelry, 14k Gold Plated Dainty Charm",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4467728972/14k-gold-plated-shell-necklace-ocean",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978541821159",
+    "error": null
   }
 ]
