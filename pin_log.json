@@ -12530,5 +12530,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541946124",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-18T18:06:13.373Z",
+    "listing_id": 4469844537,
+    "title": "Silver Cat Necklace, Engraved Pet Pendant, Cat Lover Gift for Her, Summer Jewelry, Dainty Animal Charm",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4469844537/silver-cat-necklace-engraved-pet-pendant",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
