@@ -12478,5 +12478,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541905835",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-18T04:13:56.486Z",
+    "listing_id": 4470364016,
+    "title": "Dainty Multi Birthstone Necklace Custom Family Birthstone Necklace, Multiple Birthstone Gift for Mom, Personalized Mother&#39;s Day Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4470364016/dainty-multi-birthstone-necklace-custom",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
