@@ -12556,5 +12556,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978541961001",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-18T22:10:30.683Z",
+    "listing_id": 4471460232,
+    "title": "Herringbone Chain Necklace, Flat Gold Snake Chain, Minimalist Layering Necklace, Mother&#39;s Day Gift, Dainty Gold Choker, Gift for Mom",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4471460232/herringbone-chain-necklace-flat-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
