@@ -12660,5 +12660,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-19T20:13:27.852Z",
+    "listing_id": 4405931108,
+    "title": "Custom Name Necklace, 14k Gold Nameplate, Personalized Jewelry, Summer Jewelry, Dainty Custom Choker, Everyday Gold Chain",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4405931108/custom-name-necklace-14k-gold-plated",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978542034863",
+    "error": null
   }
 ]
