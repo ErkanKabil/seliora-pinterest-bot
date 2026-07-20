@@ -12686,5 +12686,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-20T00:13:43.224Z",
+    "listing_id": 4473596044,
+    "title": "Birthstone Necklace, Personalized 14K Gold Plated Emerald Pendant, Custom Round Gemstone Jewelry, Birthday Gift for Her, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4473596044/birthstone-necklace-personalized-14k",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
