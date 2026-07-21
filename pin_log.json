@@ -12803,5 +12803,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978542119257",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-21T00:10:35.205Z",
+    "listing_id": 4541091934,
+    "title": "Gold Dome Croissant Ring, Chunky Statement Ring for Mom, Bold Minimal Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Ring",
+    "etsy_url": "https://www.etsy.com/listing/4541091934/gold-dome-croissant-ring-chunky",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978542125161",
+    "error": null
   }
 ]
