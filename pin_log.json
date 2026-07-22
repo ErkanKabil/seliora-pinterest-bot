@@ -12985,5 +12985,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978542249867",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-22T16:45:32.449Z",
+    "listing_id": 4541652319,
+    "title": "Multi Birthstone Ring Gold, Family Gemstone Ring, Dainty Stacking Ring for Women, Baguette Rainbow Eternity Band, Personalized Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4541652319/multi-birthstone-ring-gold-family",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
