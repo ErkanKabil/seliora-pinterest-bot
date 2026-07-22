@@ -12972,5 +12972,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-22T15:19:03.666Z",
+    "listing_id": 4541672744,
+    "title": "14K Gold Multi Gemstone Baguette Ring, Rainbow Birthstone Band, Dainty Colorful Jewelry, Stackable Baguette Ring",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4541672744/14k-gold-multi-gemstone-baguette-ring",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978542249867",
+    "error": null
   }
 ]
