@@ -13219,5 +13219,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978542407519",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-24T16:58:31.629Z",
+    "listing_id": 4470446293,
+    "title": "14K Gold Plated Flower Necklace, Mother&#39;s Day Gift, Custom Puffy Petal Charm Jewelry, Dainty Gold Chain Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4470446293/14k-gold-plated-flower-necklace-mothers",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
