@@ -13193,5 +13193,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978542376754",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-24T12:48:28.579Z",
+    "listing_id": 4432709724,
+    "title": "Summer Jewelry for Mom, 14K Gold Heart Necklace, Diamond Heart Pendant, Open Heart Necklace, Minimalist Love Jewelry, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4432709724/14k-gold-heart-necklace-diamond-heart",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
