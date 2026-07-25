@@ -13323,5 +13323,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-25T14:44:08.596Z",
+    "listing_id": 4473575635,
+    "title": "Custom Birthstone Clover Necklace, 14K Gold Four Leaf Charm, Personalized Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4473575635/birthstone-clover-necklace-custom-14k",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978542486418",
+    "error": null
   }
 ]
