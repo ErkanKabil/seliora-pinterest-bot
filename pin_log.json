@@ -13362,5 +13362,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-25T20:17:07.133Z",
+    "listing_id": 4475869404,
+    "title": "Summer Jewelry for Mom, Custom Name Necklace, 14k Gold Nameplate, Personalized Jewelry, Summer Jewelry, Everyday Gold Chain",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4475869404/mothers-day-gift-for-mom-custom-name",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978542508679",
+    "error": null
   }
 ]
