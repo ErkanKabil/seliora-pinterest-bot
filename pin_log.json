@@ -13297,5 +13297,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978542452127",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-25T04:26:18.662Z",
+    "listing_id": 4473575635,
+    "title": "Birthstone Clover Necklace, Custom 14K Gold Four Leaf Clover, Personalized Good Luck Charm, Summer Jewelry, Birthday Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4473575635/birthstone-clover-necklace-custom-14k",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
