@@ -13440,5 +13440,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-26T14:46:19.167Z",
+    "listing_id": 4476057900,
+    "title": "Vertical Name Necklace with Birthstone, Mother&#39;s Day Gift, Personalized Jewelry for Mom, Custom Name Pendant with Gemstone",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4476057900/vertical-name-necklace-with-birthstone",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978542566351",
+    "error": null
   }
 ]
