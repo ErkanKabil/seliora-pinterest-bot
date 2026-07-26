@@ -13479,5 +13479,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-26T20:19:05.015Z",
+    "listing_id": 4476469501,
+    "title": "Personalized Birthstone Necklace for Mom, Family Birthstone Necklace, Circle Pendant Necklace, Summer Jewelry, Custom Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4476469501/personalized-birthstone-necklace-for-mom",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978542590040",
+    "error": null
   }
 ]
