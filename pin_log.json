@@ -13583,5 +13583,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978542661313",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-27T18:46:08.456Z",
+    "listing_id": 4475884313,
+    "title": "Twisted Necklace, Gold Vermeil Chain, Everyday Jewelry for Her, Waterproof Gold Chain, Anniversary Gift, Minimalist Choker, Gift for Mom",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4475884313/twisted-necklace-gold-vermeil-chain",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
