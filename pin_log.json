@@ -13648,5 +13648,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978542697811",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-28T04:25:47.411Z",
+    "listing_id": 4477717509,
+    "title": "Dainty Pearl Necklace, Minimal Gold Pearl Necklace, Tiny Pearl Choker, Elegant Layering Necklace, Summer Jewelry, Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4477717509/dainty-pearl-necklace-minimal-gold-pearl",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
