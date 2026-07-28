@@ -13713,5 +13713,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-07-28T20:36:31.730Z",
+    "listing_id": 4477788406,
+    "title": "Summer Jewelry for Mom, Custom Birthstone Necklace, Personalized Four Leaf Clover Jewelry, Gold Lucky Clover Pendant, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4477788406/mothers-day-gift-for-mom-custom",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978542758555",
+    "error": null
   }
 ]
