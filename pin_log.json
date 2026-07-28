@@ -13726,5 +13726,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978542758555",
     "error": null
+  },
+  {
+    "timestamp": "2026-07-28T22:19:37.296Z",
+    "listing_id": 4476089388,
+    "title": "Summer Jewelry for Mom, Birth Flower Necklace, Custom Floral Jewelry, Birthday Gift for Her, Summer Jewelry, Minimalist Bouquet Necklace",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4476089388/mothers-day-gift-for-mom-birth-flower",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
