@@ -14181,5 +14181,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-01T20:17:17.015Z",
+    "listing_id": 4428756044,
+    "title": "Custom Bubble Name Necklace, Balloon Letter Pendant, 14K Gold Name Necklace, Puffy Nameplate, Mama Necklace, Trendy Teenage Girl Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4428756044/custom-bubble-name-necklace-balloon",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978543074912",
+    "error": null
   }
 ]
