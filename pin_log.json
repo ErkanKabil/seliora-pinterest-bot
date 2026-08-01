@@ -14142,5 +14142,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978543044682",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-01T14:42:57.536Z",
+    "listing_id": 4475230503,
+    "title": "Personalized Tiny Initial Necklace, Gold Script Pendant, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4475230503/mothers-day-gift-for-mom-letter-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978543053581",
+    "error": null
   }
 ]
