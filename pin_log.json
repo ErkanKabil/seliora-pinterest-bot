@@ -14233,5 +14233,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978543099290",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-02T04:36:09.547Z",
+    "listing_id": 4409331113,
+    "title": "Summer Jewelry for Mom, Solid Gold Initial, Custom Letter Chain, Summer Jewelry, 14k Fine Jewelry, Personalized Charm, Gift For Wife",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4409331113/custom-initial-necklace-14k-gold-letter",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
