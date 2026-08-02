@@ -14311,5 +14311,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978543153889",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-02T22:13:44.811Z",
+    "listing_id": 4548676193,
+    "title": "Initial Birthstone Necklace, Personalized Gemstone Necklace, Custom Letter Jewelry, Birth Month Necklace, Dainty Gold Necklace, Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4548676193/initial-birthstone-necklace-personalized",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
