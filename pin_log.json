@@ -14402,5 +14402,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-03T18:59:06.273Z",
+    "listing_id": 4548675583,
+    "title": "Personalized Initial Necklace, Custom Birthstone Necklace, Gold Letter Necklace, Dainty Jewelry, Birthday Gift for Her, Best Friend Gift",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4548675583/personalized-initial-necklace-custom",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
