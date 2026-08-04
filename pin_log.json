@@ -14493,5 +14493,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-04T15:43:00.523Z",
+    "listing_id": 4409290766,
+    "title": "Gold Initial Necklace, Custom Letter Necklace, Personalized Name Necklace, Minimalist Jewelry, Birthday Gift for Her, Mothers Day Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4409290766/personalized-handmade-14k-gold-plated",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978543294071",
+    "error": null
   }
 ]
