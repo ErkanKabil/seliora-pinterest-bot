@@ -14727,5 +14727,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978543444945",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-06T15:35:00.524Z",
+    "listing_id": 4471450915,
+    "title": "Custom Rhinestone Name Jewelry, Sparkly Name Necklace for Women, Mother Birthday Gift, Grandma Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4471450915/custom-rhinestone-name-jewelry-sparkly",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978543456343",
+    "error": null
   }
 ]
