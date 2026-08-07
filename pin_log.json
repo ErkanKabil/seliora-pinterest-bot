@@ -14740,5 +14740,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978543456343",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-07T00:46:18.398Z",
+    "listing_id": 4407364887,
+    "title": "Custom Initial Necklace, 14k Gold Plated Letter Pendant, Personalized Christmas Gift for Her, Choose Font & Chain Length",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4407364887/custom-initial-necklace-14k-gold-plated",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
