@@ -14844,5 +14844,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-07T18:01:07.068Z",
+    "listing_id": 4473578025,
+    "title": "Personalized Initial Necklace with Custom Birthstone, 14k Gold Plated Dainty Layered Monogram Pendant with Birthstone, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4473578025/personalized-initial-necklace-with",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978543548598",
+    "error": null
   }
 ]
