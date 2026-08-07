@@ -14857,5 +14857,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978543548598",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-07T20:01:36.808Z",
+    "listing_id": 4483553508,
+    "title": "Summer Jewelry, Personalized Initial Necklace with Birthstone, Custom Letter Necklace, Gold Initial Pendant, Dainty Letter Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4483553508/summer-jewelry-personalized-initial",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978543556963",
+    "error": null
   }
 ]
