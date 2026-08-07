@@ -14805,5 +14805,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978543501570",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-07T12:01:02.145Z",
+    "listing_id": 4472078844,
+    "title": "Custom Initial Necklace, Personalized Letter Pendant, Mother&#39;s Day Gift, Vintage Style Charm, Gift for Mom",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4472078844/custom-initial-necklace-personalized",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978543523464",
+    "error": null
   }
 ]
