@@ -14935,5 +14935,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978543602826",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-08T13:59:56.649Z",
+    "listing_id": 4483566758,
+    "title": "Summer Jewelry, Heart Lariat Initial Necklace, Custom Letter Necklace with Heart, Personalized Jewelry for Mom, Dainty Gold Choker",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4483566758/summer-jewelry-heart-lariat-initial",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
