@@ -15000,5 +15000,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-08T23:46:36.349Z",
+    "listing_id": 4478870195,
+    "title": "Initial Necklace with Birthstone, Personalized Jewelry, Dainty Minimalist Necklace, Birthday Gift for Her, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4478870195/initial-necklace-with-birthstone",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978543647500",
+    "error": null
   }
 ]
