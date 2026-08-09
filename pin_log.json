@@ -15078,5 +15078,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978543698440",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-09T17:46:00.746Z",
+    "listing_id": 4417178247,
+    "title": "14K Solid Gold Name Necklace • Personalized Summer Jewelry • Custom Nameplate Necklace • Gold Plated Dainty Script Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4417178247/14k-solid-gold-name-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978543706065",
+    "error": null
   }
 ]
