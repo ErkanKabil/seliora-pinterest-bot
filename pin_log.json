@@ -15169,5 +15169,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978543763112",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-10T14:34:22.508Z",
+    "listing_id": 4483380949,
+    "title": "Summer Jewelry for Mom, Personalized Number Necklace, Custom Gold Angel Number Pendant, Minimalist Number Necklace, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4483380949/summer-jewelry-for-mom-personalized",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978543772492",
+    "error": null
   }
 ]
