@@ -15338,5 +15338,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-11T22:08:11.062Z",
+    "listing_id": 4486044134,
+    "title": "Personalized Gold Initial and Birthstone Necklace, Custom Name Monogram Pendant, Birthstone Necklace, Letter Pendant Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4486044134/personalized-gold-initial-and-birthstone",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
