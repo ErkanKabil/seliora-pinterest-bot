@@ -15273,5 +15273,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978543818894",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-11T12:01:15.483Z",
+    "listing_id": 4479820805,
+    "title": "Dainty Cross Necklace, Religious Necklace, Birthday Gift for Her, Summer Jewelry, Minimalist Custom Pendant",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4479820805/dainty-cross-necklace-religious-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978543843377",
+    "error": null
   }
 ]
