@@ -15442,5 +15442,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978543948516",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-12T20:06:41.663Z",
+    "listing_id": 4554690070,
+    "title": "Baguette Cut Tennis Necklace, 2x4mm CZ Diamond Choker, Non Flip Rhodium Gold Plated Eternity Chain, Old Money Bridal Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4554690070/baguette-cut-tennis-necklace-2x4mm-cz",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
