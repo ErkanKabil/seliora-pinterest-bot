@@ -15429,5 +15429,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-12T18:06:17.851Z",
+    "listing_id": 4480350453,
+    "title": "Blue Gemstone Necklace for Mom, Summer Jewelry, Dainty Necklace, Minimal Pendant Necklace, Elegant Jewelry for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4480350453/blue-gemstone-necklace-for-mom-summer",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978543948516",
+    "error": null
   }
 ]
