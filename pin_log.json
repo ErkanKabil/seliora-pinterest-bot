@@ -15520,5 +15520,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978544002798",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-13T14:35:14.153Z",
+    "listing_id": 4420119516,
+    "title": "Custom Name Necklace, Personalized Name Pendant, Vertical Name Necklace, Solid Gold Custom Jewelry, Gift for Girlfriend, Christmas Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4420119516/custom-name-necklace-personalized-name",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
