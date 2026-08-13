@@ -15507,5 +15507,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-13T12:03:03.169Z",
+    "listing_id": 4486606443,
+    "title": "Summer Jewelry, Dainty Butterfly Hoop Earrings, Gold Butterfly Dangle Earrings, Minimalist Animal Jewelry for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4486606443/summer-jewelry-dainty-butterfly-hoop",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978544002798",
+    "error": null
   }
 ]
