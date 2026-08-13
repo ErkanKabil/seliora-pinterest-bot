@@ -15585,5 +15585,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-13T23:59:58.932Z",
+    "listing_id": 4486006611,
+    "title": "Minimalist Pearl Necklace, 14K Gold Dainty Necklace, Birthday Gift for Her, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4486006611/minimalist-pearl-necklace-14k-gold",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978544047621",
+    "error": null
   }
 ]
