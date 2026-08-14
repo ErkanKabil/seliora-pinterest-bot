@@ -15676,5 +15676,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978544104741",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-14T19:57:54.201Z",
+    "listing_id": 4555903859,
+    "title": "Dainty Gold Cross Necklace, Diamond Cross Pendant, Minimalist Christian Jewelry, Baptism Gift for Her, Confirmation Gift, Religious Necklace",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4555903859/dainty-gold-cross-necklace-diamond-cross",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
