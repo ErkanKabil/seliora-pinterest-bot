@@ -15663,5 +15663,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-14T18:04:23.292Z",
+    "listing_id": 4487550008,
+    "title": "Summer Jewelry for Mom, Custom Photo Necklace for Mothers Day, Personalized Picture Engraved Pendant, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4487550008/summer-jewelry-for-mom-custom-photo",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978544104741",
+    "error": null
   }
 ]
