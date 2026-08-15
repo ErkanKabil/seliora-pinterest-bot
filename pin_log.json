@@ -15741,5 +15741,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-15T11:38:01.538Z",
+    "listing_id": 4486682599,
+    "title": "Summer Jewelry for Mom, Custom Photo Necklace, Engraved Picture Pendant, 14K Gold Portrait Jewelry, Summer Jewelry",
+    "pin_number": 3,
+    "media_type": "image",
+    "media_label": "Fotoğraf 3 (Video Yok)",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4486682599/summer-jewelry-for-mom-custom-photo",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978544163022",
+    "error": null
   }
 ]
