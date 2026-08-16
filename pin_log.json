@@ -15845,5 +15845,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-16T02:35:15.826Z",
+    "listing_id": 4423098488,
+    "title": "Personalized Vertical Bar Necklace, Custom Date Pendant, 14K Gold Plated Gift, Engraved Initials, Summer Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4423098488/personalized-vertical-bar-necklace",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
