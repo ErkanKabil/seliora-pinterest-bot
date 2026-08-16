@@ -15910,5 +15910,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978544266551",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-16T19:35:35.155Z",
+    "listing_id": 4483434586,
+    "title": "Summer Jewelry, Personalized Bubble Letter Birthstone Necklace, Custom Balloon Initial Pendant with Gemstone, 3D Letter&Birthstone Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4483434586/summer-jewelry-personalized-bubble",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
