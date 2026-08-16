@@ -15871,5 +15871,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978544243648",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-16T13:48:00.282Z",
+    "listing_id": 4423092750,
+    "title": "Personalized Vertical Bar Necklace, Custom Couples Jewelry or Mom Gift, Summer Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4423092750/personalized-vertical-bar-necklace",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
