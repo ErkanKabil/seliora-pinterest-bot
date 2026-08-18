@@ -16105,5 +16105,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978544402947",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-18T14:00:00.465Z",
+    "listing_id": 4471030192,
+    "title": "Cursive Initial Necklace, Delicate Custom Letter Pendant, Script Monogram Jewelry, Summer Jewelry, Solid Gold Pendant",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4471030192/cursive-initial-necklace-delicate-custom",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
