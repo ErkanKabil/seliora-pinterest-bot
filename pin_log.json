@@ -16300,5 +16300,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978544529747",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-20T01:52:59.281Z",
+    "listing_id": 4558953417,
+    "title": "Summer Jewelry, Evil Eye Hoop Earrings, 14K Gold Nazar Bead Earrings, Protection Jewelry for Her, Dainty Blue Eye Dangle Earrings",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4558953417/summer-jewelry-evil-eye-hoop-earrings",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
