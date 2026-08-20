@@ -16378,5 +16378,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978544587308/",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-20T19:47:42.803Z",
+    "listing_id": 4460818881,
+    "title": "Elephant Necklace Gold, Summer Jewelry for Mom, Minimal Elephant Pendant, Good Luck Jewelry, Dainty Animal Charm",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4460818881/elephant-necklace-gold-summer-jewelry",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
