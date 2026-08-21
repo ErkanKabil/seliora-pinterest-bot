@@ -16456,5 +16456,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978544645175/",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-21T14:01:31.464Z",
+    "listing_id": 4459414752,
+    "title": "Goldfish Necklace in Bowl, Aquarium Pendant, Minimalist Gold Fish Charm, Symbolic Jewelry, Unique Gift for Her, Dainty Art Necklace",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4459414752/goldfish-necklace-in-bowl-aquarium",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
