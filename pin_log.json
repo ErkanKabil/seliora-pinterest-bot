@@ -16508,5 +16508,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-21T21:43:18.435Z",
+    "listing_id": 4535316069,
+    "title": "Dog Portrait Necklace, Custom Pet Memorial Gift, Dainty Gold Engraved Pendant, Personalized Dog Mom Jewelry, Minimalist Puppy Coin",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4535316069/dog-portrait-necklace-custom-pet",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
