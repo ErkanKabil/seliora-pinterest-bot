@@ -16729,5 +16729,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978544827100/",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-23T19:37:05.237Z",
+    "listing_id": 4466147780,
+    "title": "Personalize Heart Name Necklace, Gold Script Necklace, 14k Gold Plated Heart Choker, Summer Jewelry, Wife Birthday Present",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4466147780/personalize-heart-name-necklace-gold",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
