@@ -16716,5 +16716,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-23T17:33:38.881Z",
+    "listing_id": 4466724870,
+    "title": "Custom Family Birthstone Necklace, Multiple Birthstone Necklace for Mom, Summer Jewelry, Children Birthstone Jewelry, Grandma Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4466724870/custom-family-birthstone-necklace",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978544827100/",
+    "error": null
   }
 ]
