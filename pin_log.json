@@ -17041,5 +17041,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978545129799/",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-27T11:12:14.668Z",
+    "listing_id": 4563582496,
+    "title": "Dolly Parton Tribute Jewelry, Gold Initial Butterfly Necklace, Personalized Letter Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4563582496/dolly-parton-tribute-jewelry-gold",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978545134682/",
+    "error": null
   }
 ]
