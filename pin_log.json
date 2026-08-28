@@ -17119,5 +17119,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-08-28T11:24:57.911Z",
+    "listing_id": 4563662313,
+    "title": "Dolly Parton Tribute Jewelry, Custom Vertical Name Necklace, Country Music Fan Gift, Custom Dangle Nameplate, Memorial Keepsake Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4563662313/dolly-parton-tribute-jewelry-custom",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978545217398/",
+    "error": null
   }
 ]
