@@ -17548,5 +17548,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978545506942/",
     "error": null
+  },
+  {
+    "timestamp": "2026-08-31T23:14:30.211Z",
+    "listing_id": 4566292154,
+    "title": "Custom Gold Initial Signet Ring, Chunky Octagonal Face, Adjustable Fit",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4566292154/custom-gold-initial-signet-ring-chunky",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
