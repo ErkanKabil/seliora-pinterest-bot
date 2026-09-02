@@ -17756,5 +17756,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-02T18:42:53.854Z",
+    "listing_id": 4566864639,
+    "title": "Custom Birthstone Ring, Choose Your Stones, Marquise Cluster Ring, Dainty Family Ring, Gold Stacking Ring, Personalized Gift for Mother",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Birthstone Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4566864639/custom-birthstone-ring-choose-your",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978545640813/",
+    "error": null
   }
 ]
