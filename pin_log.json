@@ -17691,5 +17691,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-02T01:02:55.621Z",
+    "listing_id": 4566881103,
+    "title": "Gold Christmas Tree Necklace, Dainty Green Enamel Pendant, Minimalist Holiday Jewelry Gift for Her, Festive Small Layering Necklace",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4566881103/gold-christmas-tree-necklace-dainty",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978545589103/",
+    "error": null
   }
 ]
