@@ -17925,5 +17925,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-04T01:05:29.870Z",
+    "listing_id": 4568339975,
+    "title": "Custom Leaf Birthstone Bracelet, Friendship Bracelet, Birthday Gift, Bridesmaid Gift, Mom Bracelet, Graduation Gift for He Daughter",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Birthstone Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4568339975/custom-leaf-birthstone-bracelet",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978545741378/",
+    "error": null
   }
 ]
