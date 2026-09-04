@@ -17977,5 +17977,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978545784178/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-04T16:55:05.369Z",
+    "listing_id": 4568348634,
+    "title": "Custom Multi Stone Birthstone Bracelet, Gold Dainty Gift for Her, Minimalist Jewelry, Personalized Friendship Bracelet, Birthday Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Birthstone Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4568348634/custom-multi-stone-birthstone-bracelet",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
