@@ -18068,5 +18068,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978545830907/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-05T05:44:24.066Z",
+    "listing_id": 4563932815,
+    "title": "Custom Initial Monogram Ring, Gold Heart Letter Ring, Dainty Couple Name Jewelry, Personalized Gift for Her, Minimalist Statement Band",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Name Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4563932815/custom-initial-monogram-ring-gold-heart",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
