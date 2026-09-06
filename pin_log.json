@@ -18159,5 +18159,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-06T04:39:52.997Z",
+    "listing_id": 4567604474,
+    "title": "Personalized Initial Necklace, Custom Gold Letter Pendant, Dainty Monogram Tag Charm, Gift for Her, Everyday Minimalist Layering Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4567604474/personalized-initial-necklace-custom",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978545918705/",
+    "error": null
   }
 ]
