@@ -18289,5 +18289,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978546006678/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-07T18:18:02.521Z",
+    "listing_id": 4570213689,
+    "title": "Rainbow Gemstone Necklace, Marquise Cluster Pendant, Emerald Ruby Sapphire CZ Necklace, Dainty Bridal Jewelry, Multi Gemstone Choker",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4570213689/rainbow-gemstone-necklace-marquise",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978546048191/",
+    "error": null
   }
 ]
