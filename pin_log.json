@@ -18263,5 +18263,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978545992988/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-07T04:42:27.072Z",
+    "listing_id": 4570214375,
+    "title": "Anniversary Gift for Wife, Marquise Multi Gemstone Necklace, Romantic Jewelry Gift for Her, 4 Stone Family Unity Pendant, Birthday Gift Idea",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4570214375/anniversary-gift-for-wife-marquise-multi",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
