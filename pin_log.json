@@ -18328,5 +18328,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978546058532/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-07T22:03:46.717Z",
+    "listing_id": 4570810540,
+    "title": "Gold Octagon Initial Necklace, Micro Pave CZ Letter Pendant, Solitary Geometric Medallion, Solid Finish Fine Detail Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4570810540/gold-octagon-initial-necklace-micro-pave",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
