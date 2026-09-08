@@ -18432,5 +18432,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-08T21:53:42.648Z",
+    "listing_id": 4567607216,
+    "title": "Gold Initial Necklace, Custom Dainty Letter Pendant, Octagon Frame Charm, Personalized Jewelry Gift for Her, Everyday Minimalist Choker",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4567607216/gold-initial-necklace-custom-dainty",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1092122978546138800/",
+    "error": null
   }
 ]
