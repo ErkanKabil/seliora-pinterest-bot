@@ -18458,5 +18458,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-09T01:16:51.589Z",
+    "listing_id": 4571585510,
+    "title": "Gold Plated Rhinestone Initial Necklace, Custom Letter Pendant, Dainty Choker",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Bliss Jewelry Letter Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4571585510/gold-plated-rhinestone-initial-necklace",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
