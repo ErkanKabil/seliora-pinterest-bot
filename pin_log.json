@@ -18523,5 +18523,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978546214833/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-09T23:19:53.117Z",
+    "listing_id": 4572174772,
+    "title": "Old Money Aesthetic Bracelet, Minimalist Layering Jewelry, Dainty Tennis Bracelet, Quiet Luxury Accessories, Classic Elegant Wrist Cuff",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Luxury Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4572174772/old-money-aesthetic-bracelet-minimalist",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
