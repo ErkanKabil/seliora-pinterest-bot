@@ -127,6 +127,20 @@ async function getMediaForPin(product, pinNumber) {
   return null;
 }
 
+function getBoardName(product) {
+  if (product && product.shop_section_id === 60189988) return 'Tennis Necklace';
+  if (product && product.shop_section_id === 60263384) return 'Tennis Bracelet';
+
+  const title = typeof product === 'string' ? product : (product?.title || '');
+  const tags = Array.isArray(product?.tags) ? product.tags.join(' ') : '';
+  const fullText = `${title} ${tags}`.toLowerCase();
+
+  if (fullText.includes('bracelet') || fullText.includes('bangle') || fullText.includes('wrist')) {
+    return 'Tennis Bracelet';
+  }
+  return 'Tennis Necklace';
+}
+
 // ─── US Prime Time saatleri ────────────────────────
 const US_PRIME_TIME_SLOTS = [
   '08:15 EDT (12:15 UTC)',
@@ -179,7 +193,9 @@ async function runDaySimulation() {
     }
 
     const { listing, pinNumber } = target;
+    const boardName = getBoardName(listing);
     log(`${c.cyan}Ürün  :${c.reset} ${listing.title.substring(0, 65)}...`);
+    log(`${c.cyan}Pano  :${c.reset} ${c.yellow}${boardName}${c.reset}`);
     log(`${c.cyan}Pin   :${c.reset} ${pinNumber}/3`);
 
     const media = await getMediaForPin(listing, pinNumber);
@@ -190,8 +206,8 @@ async function runDaySimulation() {
     } else {
       log(`${c.cyan}Medya :${c.reset} ${media.label}`);
       log(`${c.cyan}URL   :${c.reset} ${c.dim}${media.url.substring(0, 80)}...${c.reset}`);
-      pin(`Bu çalıştırma → ${media.label} paylaşılacak`);
-      results.push({ run, status: 'OK', listing: listing.title, pinNumber, media: media.label });
+      pin(`Bu çalıştırma → ${media.label} (${boardName} Panosu) paylaşılacak`);
+      results.push({ run, status: 'OK', listing: listing.title, pinNumber, media: media.label, boardName });
     }
 
     // shared_products güncelle (in-memory)

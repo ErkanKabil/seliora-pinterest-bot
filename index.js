@@ -352,20 +352,30 @@ function getProductUrl(product) {
 }
 
 /**
- * Ürün başlığına göre doğru Pinterest Panosunu (Board) belirler.
+ * Ürünün Etsy Shop Section bilgisine ve başlığına göre Pinterest Panosunu (Board) belirler.
+ * SelioraJewelry panoları: "Tennis Necklace" ve "Tennis Bracelet"
  */
-function getBoardName(title) {
-  const hasWord = (word) => new RegExp(`\\b${word}\\b`, 'i').test(title);
-
-  // Pano adları Pinterest'ten doğrulanmıştır (01.04.2026)
-  if (hasWord('birthstone')) {
-    return hasWord('bracelet') ? 'Birthstone Bracelet' : 'Bliss Birthstone Necklace';
+function getBoardName(product) {
+  // 1. Etsy Shop Section ID kontrolü (SelioraJewelry)
+  // Section 60189988 = Tennis Necklace
+  // Section 60263384 = Tennis Bracelet
+  if (product && product.shop_section_id === 60189988) {
+    return 'Tennis Necklace';
   }
-  if (hasWord('name'))                         return 'Bliss Jewelry Name Necklace';
-  if (hasWord('letter') || hasWord('initial')) return 'Bliss Jewelry Letter Necklace';
-  if (hasWord('bracelet'))                     return 'Bliss Jewelry Luxury Bracelet';
-  if (hasWord('ring'))                         return 'Bliss Jewelry Ring';
-  return 'Bliss Jewelry Necklace';
+  if (product && product.shop_section_id === 60263384) {
+    return 'Tennis Bracelet';
+  }
+
+  // 2. Başlık (Title) & Etiketler (Tags) üzerinden fallback kontrolü
+  const title = typeof product === 'string' ? product : (product?.title || '');
+  const tags = Array.isArray(product?.tags) ? product.tags.join(' ') : '';
+  const fullText = `${title} ${tags}`.toLowerCase();
+
+  if (fullText.includes('bracelet') || fullText.includes('bangle') || fullText.includes('wrist')) {
+    return 'Tennis Bracelet';
+  }
+
+  return 'Tennis Necklace';
 }
 
 /**
@@ -486,7 +496,7 @@ async function pinToBoard(product, mediaPath, mediaType) {
     }
 
     // 5. Pano (Board) seçimi
-    const selectedBoard = getBoardName(product.title);
+    const selectedBoard = getBoardName(product);
     console.log(`📋 Pano seçiliyor: ${selectedBoard}`);
     try {
       const boardDropdownSelector = '[data-test-id="board-dropdown-select-button"]';
