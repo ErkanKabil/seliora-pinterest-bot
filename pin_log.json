@@ -18562,5 +18562,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1092122978546236260/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-10T05:57:58.475Z",
+    "listing_id": 4572156507,
+    "title": "Gift for Her, CZ Tennis Bracelet, Anniversary Gift for Wife, Bridal Wedding Jewelry, Birthday Present for Best Friend, Dainty Wrist Cuff",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Bliss Jewelry Luxury Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4572156507/gift-for-her-cz-tennis-bracelet",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
