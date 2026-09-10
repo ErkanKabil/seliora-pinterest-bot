@@ -37,5 +37,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1103170871256230672/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-10T23:09:45.063Z",
+    "listing_id": 4572859031,
+    "title": "Sparkling Tennis Bracelet, Minimalist Chic Layering Bangle, Clean Girl Aesthetic Jewelry, Silver Diamond Stacking Bracelet, Everyday Luxury",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Tennis Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4572859031/sparkling-tennis-bracelet-minimalist",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
