@@ -24,5 +24,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1103170871256230170/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-10T20:35:06.616Z",
+    "listing_id": 4572859619,
+    "title": "Classic Cubic Zirconia Tennis Bracelet, Sterling Silver Plated Link Bangle, 4 Prong Setting Diamond Simulant Bracelet, Fine Wrist Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Tennis Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4572859619/classic-cubic-zirconia-tennis-bracelet",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1103170871256230672/",
+    "error": null
   }
 ]
