@@ -141,5 +141,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1103170871256306092/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-11T21:44:39.237Z",
+    "listing_id": 4573493612,
+    "title": "Baguette Tennis Necklace, Zircon Stone Necklace, Rhodium Plated Jewelry, Baguette Cut Necklace, Elegant Sparkle Jewelry",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4573493612/baguette-tennis-necklace-zircon-stone",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1103170871256314166/",
+    "error": null
   }
 ]
