@@ -102,5 +102,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1103170871256287686/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-11T17:03:37.629Z",
+    "listing_id": 4572849927,
+    "title": "Diamond Tennis Bracelet, Anniversary Gift for Her, Dainty Bridal Jewelry, Sparkly Wedding Bracelet, Elegant Birthday Gift for Wife, Mom Gift",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Tennis Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4572849927/diamond-tennis-bracelet-anniversary-gift",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1103170871256295298/",
+    "error": null
   }
 ]
