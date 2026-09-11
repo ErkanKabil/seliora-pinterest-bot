@@ -154,5 +154,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1103170871256314166/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-11T23:15:07.819Z",
+    "listing_id": 4573493236,
+    "title": "Baguette Tennis Necklace, Chic Layering Necklace, Modern Statement Jewelry, Dainty Sparkle Necklace, Elegant Everyday Jewelry",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4573493236/baguette-tennis-necklace-chic-layering",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
