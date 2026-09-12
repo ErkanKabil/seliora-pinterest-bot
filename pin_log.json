@@ -193,5 +193,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1103170871256336038/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-12T05:52:06.277Z",
+    "listing_id": 4573474131,
+    "title": "Baguette Tennis Necklace, Elegant Gift for Her, Baguette Necklace, Anniversary Gift, Bridal Jewelry, Sparkle Necklace",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4573474131/baguette-tennis-necklace-elegant-gift",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1103170871256339805/",
+    "error": null
   }
 ]
