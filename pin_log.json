@@ -284,5 +284,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-13T01:01:23.475Z",
+    "listing_id": 4573585604,
+    "title": "Tarnish Free Tennis Necklace, Waterproof Zircon Choker, Hypoallergenic Silver Chain, Everyday Sparkle Jewelry, Sweatproof Collar",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4573585604/tarnish-free-tennis-necklace-waterproof",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
