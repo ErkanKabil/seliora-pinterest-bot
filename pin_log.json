@@ -349,5 +349,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1103170871256474083/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-13T18:14:30.792Z",
+    "listing_id": 4573590686,
+    "title": "925 Sterling Silver Tennis Necklace, Rhodium Plated CZ Necklace, Stainless Steel Tennis Chain, Prong Set Zircon Necklace",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4573590686/925-sterling-silver-tennis-necklace",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
