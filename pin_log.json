@@ -310,5 +310,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1103170871256427779/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-13T06:15:49.270Z",
+    "listing_id": 4573583548,
+    "title": "Dainty Tennis Choker, Old Money Aesthetic Necklace, Layering Zircon Chain, Minimalist Silver Jewelry, Y2K Sparkly Choker for Women",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4573583548/dainty-tennis-choker-old-money-aesthetic",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
