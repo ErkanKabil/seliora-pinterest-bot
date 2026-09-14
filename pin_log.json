@@ -479,5 +479,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-14T20:58:13.913Z",
+    "listing_id": 4575262353,
+    "title": "Baguette Tennis Bracelet with Ruby Centerpiece, Old Money Aesthetic Silver Bangle, Chic Everyday Stacking Jewelry",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Tennis Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4575262353/baguette-tennis-bracelet-with-ruby",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
