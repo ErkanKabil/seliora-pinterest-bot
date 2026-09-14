@@ -401,5 +401,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-14T01:05:30.673Z",
+    "listing_id": 4574613366,
+    "title": "Triple Row Tennis Necklace, Layered Bridal Zircon Necklace, Multi Strand Wedding Jewelry, Sparkling Anniversary Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4574613366/triple-row-tennis-necklace-layered",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
