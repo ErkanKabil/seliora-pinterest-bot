@@ -570,5 +570,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-15T17:42:28.524Z",
+    "listing_id": 4574511253,
+    "title": "Ruby Tennis Bracelet, Two Stone Toi et Moi Silver Bracelet, July Birthstone Jewelry, Meaningful Anniversary Gift for Wife or Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Tennis Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4574511253/ruby-tennis-bracelet-two-stone-toi-et",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1103170871256636188/",
+    "error": null
   }
 ]
