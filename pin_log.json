@@ -596,5 +596,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-15T20:16:54.134Z",
+    "listing_id": 4575260263,
+    "title": "Multi Strand Tennis Bracelet, Trendy Stacking Silver Cuff, Aesthetic Layering Zirconia Bangle, Quiet Luxury Jewelry, Chic Everyday Bling",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Tennis Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4575260263/multi-strand-tennis-bracelet-trendy",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
