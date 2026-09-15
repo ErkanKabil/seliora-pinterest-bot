@@ -531,5 +531,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-15T04:58:57.212Z",
+    "listing_id": 4575283130,
+    "title": "Ruby Baguette Tennis Bracelet for Her, Romantic Anniversary Bracelet, Elegant Bridal Jewelry, Gift for Wife",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Tennis Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4575283130/ruby-baguette-tennis-bracelet-for-her",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1103170871256598071/",
+    "error": null
   }
 ]
