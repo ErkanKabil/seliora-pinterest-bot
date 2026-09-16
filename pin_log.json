@@ -661,5 +661,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1103170871256671617/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-16T06:06:57.891Z",
+    "listing_id": 4573577661,
+    "title": "Tennis Necklace, Anniversary Gift for Wife, Bridal Jewelry, Elegant Choker for Women, Bridesmaid Proposal, Christmas Gift for Her",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4573577661/tennis-necklace-anniversary-gift-for",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
