@@ -635,5 +635,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-16T01:26:12.104Z",
+    "listing_id": 4573590436,
+    "title": "Tennis Necklace, Sparkling CZ Choker, Silver Layering Necklace, Minimalist Jewelry, Y2K Jewelry, Dainty Statement Necklace",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4573590436/tennis-necklace-sparkling-cz-choker",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
