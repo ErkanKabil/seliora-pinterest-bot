@@ -726,5 +726,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-16T22:10:33.004Z",
+    "listing_id": 4573571911,
+    "title": "Tennis Necklace Gift for Her, Elegant CZ Necklace, Anniversary Gift, Birthday Gift, Bridal Jewelry, Luxury Silver Necklace",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4573571911/tennis-necklace-gift-for-her-elegant-cz",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1103170871256729254/",
+    "error": null
   }
 ]
