@@ -778,5 +778,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1103170871256746668/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-17T06:12:17.124Z",
+    "listing_id": 4576700168,
+    "title": "Bridal Cluster Tennis Bracelet, Marquise Crystal Sparkling Wristlet, Wide Floral Wedding Jewelry, Luxury Keepsake Gift for Bride",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Tennis Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4576700168/bridal-cluster-tennis-bracelet-marquise",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
