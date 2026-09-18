@@ -947,5 +947,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-18T19:37:23.973Z",
+    "listing_id": 4574532264,
+    "title": "Bridal Tennis Bracelet for Wedding Day, Classic Round CZ Diamond Bracelet, Dainty Bridal Jewelry, Timeless Anniversary Gift for Her",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Tennis Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4574532264/bridal-tennis-bracelet-for-wedding-day",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
