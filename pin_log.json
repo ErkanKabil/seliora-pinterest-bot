@@ -1038,5 +1038,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1103170871256943950/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-19T16:32:37.272Z",
+    "listing_id": 4574521179,
+    "title": "Dainty Bridal Tennis Necklace, Delicate Diamond Simulant Choker, Subtle Wedding Jewelry, Elegant Keepsake Birthday Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4574521179/dainty-bridal-tennis-necklace-delicate",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1103170871256953952/",
+    "error": null
   }
 ]
