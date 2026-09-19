@@ -999,5 +999,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-19T04:42:05.413Z",
+    "listing_id": 4574522555,
+    "title": "3mm Bridal Tennis Necklace, Classic Diamond Simulant Choker, Sparkling Wedding Jewelry for Bride, Timeless Anniversary Gift for Her",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4574522555/3mm-bridal-tennis-necklace-classic",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1103170871256908348/",
+    "error": null
   }
 ]
