@@ -1064,5 +1064,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-19T19:20:22.858Z",
+    "listing_id": 4578030819,
+    "title": "Princess Cut Zirconia Tennis Bracelet, Gold and Silver Square Diamond Simulant Chain, Adjustable Secure Clasp Bridal Bracelet",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Tennis Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4578030819/princess-cut-zirconia-tennis-bracelet",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1103170871256967865/",
+    "error": null
   }
 ]
