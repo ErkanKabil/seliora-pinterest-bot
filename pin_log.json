@@ -1103,5 +1103,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-20T01:09:09.513Z",
+    "listing_id": 4574506921,
+    "title": "Old Money Tennis Bracelet, Dainty Square Baguette Wristlet, Quiet Luxury Gold Chain, Timeless Elegant Classic Jewelry for Women",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Tennis Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4574506921/old-money-tennis-bracelet-dainty-square",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
