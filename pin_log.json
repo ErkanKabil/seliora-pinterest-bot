@@ -1129,5 +1129,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1103170871257003858/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-20T06:22:36.871Z",
+    "listing_id": 4574533368,
+    "title": "Sparkling Eternity Tennis Bracelet, Dainty Diamond Simulant Wristlet, Romantic Anniversary Keepsake for Wife, Timeless Holiday Gift",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Tennis Bracelet",
+    "etsy_url": "https://www.etsy.com/listing/4574533368/sparkling-eternity-tennis-bracelet",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
