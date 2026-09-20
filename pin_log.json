@@ -1181,5 +1181,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-20T19:28:46.241Z",
+    "listing_id": 4578743286,
+    "title": "Zircon Baguette Tennis Necklace, Square Cut Pendant Choker, Rhodium Plated Collar Chain, Non Flipping Flat Tennis Necklace, Gold Silver",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4578743286/zircon-baguette-tennis-necklace-square",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
