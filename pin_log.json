@@ -1259,5 +1259,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-21T17:06:15.291Z",
+    "listing_id": 4579243111,
+    "title": "Half Tennis Half Chain Necklace, Asymmetric Baguette Link Choker, Modern Anniversary Gift for Her, Unique Dual Chain Keepsake",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4579243111/half-tennis-half-chain-necklace",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
