@@ -1298,5 +1298,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-21T21:05:40.616Z",
+    "listing_id": 4579868460,
+    "title": "Everyday Tennis Necklace, Waterproof Silver Chain, Tarnish Free Choker, Dainty Crystal Necklace, Treat Yourself Gift, Simple Zircon Chain",
+    "pin_number": 2,
+    "media_type": "image",
+    "media_label": "Fotoğraf 2",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4579868460/everyday-tennis-necklace-waterproof",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1103170871257149617/",
+    "error": null
   }
 ]
