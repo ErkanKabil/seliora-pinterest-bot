@@ -1363,5 +1363,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1103170871257173650/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-22T06:19:23.076Z",
+    "listing_id": 4579867814,
+    "title": "Sparkling CZ Tennis Necklace, Anti Flip Diamond Style Chain, Silver Plated Choker, Handmade Bridal Jewelry, High Quality Cast Crystal Chain",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4579867814/sparkling-cz-tennis-necklace-anti-flip",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
