@@ -1402,5 +1402,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1103170871257216420/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-22T18:56:54.152Z",
+    "listing_id": 4579867518,
+    "title": "Minimalist Tennis Choker, Dainty Layering Necklace, Old Money Aesthetic, Y2K Diamond Style Chain, Simple Crystal Necklace for Everyday Wear",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4579867518/minimalist-tennis-choker-dainty-layering",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1103170871257222337/",
+    "error": null
   }
 ]
