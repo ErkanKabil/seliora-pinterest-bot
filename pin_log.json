@@ -1350,5 +1350,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-22T05:01:23.115Z",
+    "listing_id": 4579868154,
+    "title": "Bridal Tennis Necklace, Wedding Day Jewelry for Bride, Dainty Bridesmaid Choker, Elegant Zircon Chain, Classic Prom Choker",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4579868154/bridal-tennis-necklace-wedding-day",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1103170871257173650/",
+    "error": null
   }
 ]
