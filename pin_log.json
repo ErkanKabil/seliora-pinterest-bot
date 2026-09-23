@@ -1467,5 +1467,18 @@
     "status": "success",
     "pin_url": null,
     "error": null
+  },
+  {
+    "timestamp": "2026-09-23T04:49:38.723Z",
+    "listing_id": 4580598404,
+    "title": "Signature Silver Choker, Daily Wear Tennis Chain, Minimalist Sparkle Jewelry, Treat Yourself Gift, Layering Stacking Necklace",
+    "pin_number": 3,
+    "media_type": "video",
+    "media_label": "Video",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4580598404/signature-silver-choker-daily-wear",
+    "status": "success",
+    "pin_url": "https://www.pinterest.com/pin/1103170871257256851/",
+    "error": null
   }
 ]
