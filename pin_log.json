@@ -1480,5 +1480,18 @@
     "status": "success",
     "pin_url": "https://www.pinterest.com/pin/1103170871257256851/",
     "error": null
+  },
+  {
+    "timestamp": "2026-09-23T06:03:01.151Z",
+    "listing_id": 4580584363,
+    "title": "Elegant Bridal Jewelry, Wedding Day Choker, Bridesmaid Necklace Gift, Crystal Evening Chain, Bachelorette Party Accessory",
+    "pin_number": 1,
+    "media_type": "image",
+    "media_label": "Fotoğraf 1",
+    "board": "Tennis Necklace",
+    "etsy_url": "https://www.etsy.com/listing/4580584363/elegant-bridal-jewelry-wedding-day",
+    "status": "success",
+    "pin_url": null,
+    "error": null
   }
 ]
